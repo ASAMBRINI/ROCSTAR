@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",LAS ESTRELLAS
+https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",HBO +
+http://livex.pop-app.live/s4n/poptv/HboPlus.Tecnobyte/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CULTURALES",HBO SIGNATURE
+http://livex.pop-app.live/s4n/poptv/HboSignature.Tecnobyte/chunks.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CULTURALES",DISCOVERY H&H
+http://livex.pop-app.live/s4n/poplive/ch352/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",ESPN MX
+http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CULTURALES",DISCOVERY TCL
+http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CULTURALES",INVESTIGATION DISCOVERY
+http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",DHE
+http://45.166.92.22:58001/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CULTURALES",NET GEO LIVEX
+http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="DEPORTES",MSL PASS
 https://cdnlive.codev8.net/rtpalive/channel1_nash/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="MUSICALES",TIERRA MIA
