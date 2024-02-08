@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",CNN CONCLUSSIONES
+https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",VIVO PLAY
+https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",LA ROSA DE GUADALUPE
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN EDGE
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",DE PELICULA
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",MX PRIME
+https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="ADULTOS XXX",PLAYBOY
 http://45.5.117.182:8000/play/a0ed/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="ADULTOS XXX",VENUS
