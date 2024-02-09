@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",GOLDEN PREMIER
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",TUDN
+https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",TUDN
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",PINKFONG
+https://linear-355.frequency.stream/mt/studio/355/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="MUSICALES",BANDA MAX
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",DE PELICULA PLUS
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",DISTRITO COMEDIA
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN 2
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",CNN CONCLUSSIONES
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",VIVO PLAY
@@ -34,7 +52,7 @@ http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INFANTILES",AFIZZIONADOS
 ttp://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INFANTILES",BITME
-http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",AZ CORAZON
 http://livex.pop-app.live/s4n/poplive/ch570/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",LAS ESTRELLAS MX
