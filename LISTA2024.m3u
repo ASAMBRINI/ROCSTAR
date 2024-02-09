@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",NOVELAS
+https://linear-429.frequency.stream/mt/studio/429/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="DEPORTES",TUDN
 https://linear-364.frequency.stream/mt/studio/364/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="DEPORTES",TIGGO SPORTS
