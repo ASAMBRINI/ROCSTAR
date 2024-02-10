@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN MULTIPLEX
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",NOVELAS EN ESPAÑOL
+https://stormcast-novelas-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",SONY NOVELAS
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",KANAL D DRAMA
