@@ -431,35 +431,34 @@ http://190.90.154.73:8080/play/a08c/index.m3u8
 http://190.90.154.73:8080/play/a04x/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",CNN Español
 http://190.90.154.73:8080/play/a08g/index.m3u8
-#EXTINF:-1,CNN International
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",CNN International
 http://190.90.154.73:8080/play/a08i/index.m3u8
-#EXTINF:-1,Canal Capital
-http://190.90.154.73:8080/play/a07c/index.m3u8
-#EXTINF:-1,Canal 1
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",Canal Capital
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",Canal 1
 http://190.90.154.73:8080/play/a018/index.m3u8
-#EXTINF:-1,Canal 13
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",Canal 13
 http://190.90.154.73:8080/play/a09d/index.m3u8
-#EXTINF:-1,Canal 13 HD
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",Canal 13 HD
 http://190.90.154.73:8080/play/a09c/index.m3u8
-#EXTINF:-1,Canal 24 Horas HD
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",Canal 24 Horas HD
 http://190.90.154.73:8080/play/a095/index.m3u8
-#EXTINF:-1,Canal Institucional
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",Canal Institucional
 http://190.90.154.73:8080/play/a077/index.m3u8
-#EXTINF:-1,Canal Institucional HD
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",Canal Institucional HD
 http://190.90.154.73:8080/play/a04q/index.m3u8
-#EXTINF:-1,Canal TRO
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",Canal TRO
 http://190.90.154.73:8080/play/a07a/index.m3u8
-#EXTINF:-1,Canal del Congreso
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",Canal del Congreso
 http://190.90.154.73:8080/play/a06j/index.m3u8
-#EXTINF:-1,Caracol
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",Caracol
 http://190.90.154.73:8080/play/a078/index.m3u8
-#EXTINF:-1,Caracol HD
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",Caracol HD
 http://190.90.154.73:8080/play/a09t/index.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",Cartoon Network
 http://190.90.154.73:8080/play/a09e/index.m3u8
-#EXTINF:-1,Cartoon Network HD
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",Cartoon Network HD
 http://190.90.154.73:8080/play/a03h/index.m3u8
-#EXTINF:-1,Cartoonito
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",Cartoonito
 http://190.90.154.73:8080/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",Cinecanal
 http://190.90.154.73:8080/play/a03v/index.m3u8
@@ -469,44 +468,44 @@ http://190.90.154.73:8080/play/a03d/index.m3u8
 http://190.90.154.73:8080/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",Cinemax HD
 http://190.90.154.73:8080/play/a022/index.m3u8
-#EXTINF:-1,City TV
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",City TV
 http://190.90.154.73:8080/play/a08a/index.m3u8
-#EXTINF:-1,Clover
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",Clover
 http://190.90.154.73:8080/play/a06k/index.m3u8
-#EXTINF:-1,Clover HD
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",Clover HD
 http://190.90.154.73:8080/play/a00x/index.m3u8
-#EXTINF:-1,Conciencia
+#EXTINF:-1 tvg-id="ext" group-title="RELIGION",Conciencia
 http://190.90.154.73:8080/play/a05v/index.m3u8
-#EXTINF:-1,Cristovisiðn
+#EXTINF:-1 tvg-id="ext" group-title="RELIGION",Cristovisiðn
 http://190.90.154.73:8080/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",DHE HD
 http://190.90.154.73:8080/play/a098/index.m3u8
 #EXTINF:-1,DW (Deutsch +)
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",De Pelicula
 http://190.90.154.73:8080/play/a084/index.m3u8
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",Discovery Channel
 http://190.90.154.73:8080/play/a07g/index.m3u8
-#EXTINF:-1,Discovery H&H
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",Discovery H&H
 http://190.90.154.73:8080/play/a01b/index.m3u8
-#EXTINF:-1,Discovery H&H HD
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",Discovery H&H HD
 http://190.90.154.73:8080/play/a02o/index.m3u8
-#EXTINF:-1,Discovery HD
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",Discovery HD
 http://190.90.154.73:8080/play/a099/index.m3u8
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",Discovery Kids
 http://190.90.154.73:8080/play/a07e/index.m3u8
-#EXTINF:-1,Discovery Kids HD
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",Discovery Kids HD
 http://190.90.154.73:8080/play/a02n/index.m3u8
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",Discovery Science
 http://190.90.154.73:8080/play/a060/index.m3u8
-#EXTINF:-1,Discovery Theater HD
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",Discovery Theater HD
 http://190.90.154.73:8080/play/a02p/index.m3u8
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",Discovery Turbo
 http://190.90.154.73:8080/play/a07x/index.m3u8
-#EXTINF:-1,Discovery World HD
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",Discovery World HD
 http://190.90.154.73:8080/play/a03c/index.m3u8
-#EXTINF:-1,Disney HD
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",Disney HD
 http://190.90.154.73:8080/play/a01u/index.m3u8
-#EXTINF:-1,Disney Junior
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",Disney Junior
 http://190.90.154.73:8080/play/a019/index.m3u8
 #EXTINF:-1,E! Entertainment TV
 http://190.90.154.73:8080/play/a06q/index.m3u8
