@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",TELEFE
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f83716771641f4fc47bd86/471578cf6a4cd5fef1471695cd092009?tr=q-80&w=750" group-title="ViX",Euronews
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 
