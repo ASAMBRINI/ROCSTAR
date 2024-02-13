@@ -317,9 +317,9 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",MX PRIME
 https://marine2.miplay.cl/mxprime/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="ADULTOS XXX",PLAYBOY
+#EXTINF:-1 tvg-id="ext" group-title="ADULTOS",PLAYBOY
 http://45.5.117.182:8000/play/a0ed/index.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="ADULTOS XXX",VENUS
+#EXTINF:-1 tvg-id="ext" group-title="ADULTOS",VENUS
 http://45.5.117.182:8000/play/a0gu/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",TL NOVELAS
 http://190.90.154.73:8080/play/a01d/index.m3u8
@@ -944,46 +944,47 @@ http://190.90.154.73:8080/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="VARIEDADES",TNT Novelas
 http://190.90.154.73:8080/play/a06u/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="VARIEDADES",TNT Novelas HD
+http://190.90.154.73:8080/play/a08z/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",TNT Series HD
 http://190.90.154.73:8080/play/a02w/index.m3u8
-#EXTINF:-1,TRUTV HD
+#EXTINF:-1 tvg-id="ext" group-title="VARIEDADES",TRUTV HD
 http://190.90.154.73:8080/play/a025/index.m3u8
-#EXTINF:-1,TV Senado
+#EXTINF:-1 tvg-id="ext" group-title="VARIEDADES",TV Senado
 http://190.90.154.73:8080/play/a01e/index.m3u8
-#EXTINF:-1,TVN HD
+#EXTINF:-1 tvg-id="ext" group-title="VARIEDADES",TVN HD
 http://190.90.154.73:8080/play/a01r/index.m3u8
-#EXTINF:-1,Teen Nick
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",Teen Nick
 http://190.90.154.73:8080/play/a00j/index.m3u8
-#EXTINF:-1,Teleantioquia
-http://190.90.154.73:8080/play/a089/index.m3u8
-#EXTINF:-1,Telecafe
+#EXTINF:-1 tvg-id="ext" group-title="VARIEDADES",Teleantioquia
+#EXTINF:-1 tvg-id="ext" group-title="VARIEDADES",Telecafe
 http://190.90.154.73:8080/play/a07b/index.m3u8
-#EXTINF:-1,Telecaribe
+#EXTINF:-1 tvg-id="ext" group-title="VARIEDADES",Telecaribe
 http://190.90.154.73:8080/play/a079/index.m3u8
-#EXTINF:-1,Teleislas
+#EXTINF:-1 tvg-id="ext" group-title="VARIEDADES",Teleislas
 http://190.90.154.73:8080/play/a05x/index.m3u8
-#EXTINF:-1,Telemundo
+#EXTINF:-1 tvg-id="ext" group-title="VARIEDADES",Telemundo
 http://190.90.154.73:8080/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="VARIEDADES",Telenovelas
 http://190.90.154.73:8080/play/a01d/index.m3u8
-#EXTINF:-1,Telepacifico
+#EXTINF:-1 tvg-id="ext" group-title="VARIEDADES",Telepacifico
 http://190.90.154.73:8080/play/a088/index.m3u8
-#EXTINF:-1,Telesur
+#EXTINF:-1 tvg-id="ext" group-title="VARIEDADES",Telesur
 http://190.90.154.73:8080/play/a087/index.m3u8
-#EXTINF:-1,Tooncast
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",Tooncast
 http://190.90.154.73:8080/play/a08d/index.m3u8
-#EXTINF:-1,Tru TV
+#EXTINF:-1 tvg-id="ext" group-title="VARIEDADES",Tru TV
 http://190.90.154.73:8080/play/a08m/index.m3u8
-#EXTINF:-1,TyC Sports
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",TyC Sports
+http://190.90.154.73:8080/play/a062/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",UNIVERSAL CHANNEL HD
 http://190.90.154.73:8080/play/a02q/index.m3u8
-#EXTINF:-1,Universal
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",Universal
 http://190.90.154.73:8080/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",Warner Channel
 http://190.90.154.73:8080/play/a04c/index.m3u8
-#EXTINF:-1,Warner Channel HD
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",Warner Channel HD
 http://190.90.154.73:8080/play/a00q/index.m3u8
-#EXTINF:-1,Win Sports HD
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",Win Sports HD
 http://190.90.154.73:8080/play/a00w/index.m3u8
-#EXTINF:-1,Win Sports+ HD
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",Win Sports+ HD
 http://190.90.154.73:8080/play/a03l/index.m3u8
