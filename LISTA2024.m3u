@@ -453,10 +453,6 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",MX PRIME
 https://marine2.miplay.cl/mxprime/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="ADULTOS",PLAYBOY
-http://45.5.117.182:8000/play/a0ed/index.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="ADULTOS",VENUS
-http://45.5.117.182:8000/play/a0gu/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",TL NOVELAS
 http://190.90.154.73:8080/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",TNT NOVELAS
@@ -523,18 +519,15 @@ http://186.148.163.18:8000/play/a03g/index.m3u8
 http://45.5.118.213:16000/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",CANAL 7 JUJUY
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN
-http://204.199.120.34:16123/play/ch46
+
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN
 http://45.228.234.153:33000/play/a0l8/index.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN EDGE
-http://181.78.8.90:16123/play/ch47
+
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN PREMIER
 http://181.189.243.254:8000/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN PREMIER
 http://181.189.243.254:8000/play/a0od/index.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN PLUS
-http://6oclock.xyz:80/oVTsSvYjZu/cAXDNm9LY9/28016
+
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",MULTIPREMIER
 http://177.234.230.226:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",MULTIPREMIER
@@ -547,18 +540,16 @@ http://177.234.230.226:8010/play/a00i/index.m3u8
 http://45.5.118.213:16000/play/a0o6/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",CINE LATINO
 http://45.166.92.22:58001/play/a02c/index.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",CINE HISPANO
-http://181.78.8.90:16123/play/ch51
+
+
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",DHE
 http://186.101.207.117:7654/play/a0cp/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",DHE
 http://45.166.92.22:58001/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",VTV TCS+
 http://45.228.232.204:16000/play/a055/index.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",CANAL DE LAS ESTRELLAS
-http://190.83.60.34:1414/play/a06j
-#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",SONY MOVIES
-http://170.254.172.10:8000/play/a040/index.m3u8
+
+
 #EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",SBT
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",EURONEWS
@@ -573,14 +564,10 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="DEPORTES",DEPORTV
 https://delivery.cdn.rcs.net.ar/mnp/dxtv_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="ADULTOS",PLAYBOY
-http://181.189.243.254:8000/play/a0ow/index.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="ADULTOS",VENUS
-http://45.5.118.213:16000/play/a0lc/index.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN
 http://45.228.234.153:33000/play/a0l8/index.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN OPC 2
-http://204.199.120.34:16123/play/ch46
+
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN MULTIPLEX
 http://177.234.230.226:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",GOLDEN PREMIERE
