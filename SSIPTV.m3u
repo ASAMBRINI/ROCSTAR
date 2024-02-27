@@ -1,0 +1,332 @@
+#EXTINF:-1, LAS ESTRELLAS
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1, A Más 
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1, AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1, AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+
+#EXTINF:-1 tvg-id="644" tvg-name="Canal 28 Nuevo Leon" tvg-logo="https://i2.paste.pics/e5bf70a29f8a83310b1986ca1856b753.png", Canal 28 Nuevo Leon | MX
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="670" tvg-name="Multimedios Monterrey" tvg-logo="https://i2.paste.pics/44ef69e0493989960cee3ec7a8a1b12e.png", Multimedios Monterrey | MX
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal 6 Multimedios Mexico",Canal 6 Multimedios Mexico
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1508338964771459074/JG2pfMx1_200x200.jpg" group-title="Int. América" tvg-name="FORO TV Mexico",FORO TV Mexico
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 tvg-id="ADN40.TV" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" group-title="Int. América" tvg-name="ADN40 Mexico",ADN40 Mexico
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal Once Mexico",Canal Once Mexico
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/turistikmedia/picture?width=200&height=200" group-title="Int. América" tvg-name="Turistik TV Mexico",Turistik TV Mexico
+https://5fa5de1a545ae.streamlock.net/8030/8030/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", COMEDY CENTRAL
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+
+#EXTINF:-1  group-title="SD",  TOONCAST 
+http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", SPACE
+http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", PARAMOUNT 
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TYC SPORTS
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", DISCOVERY
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ANTENA 3
+http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", FOX SPORTS mx
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", NICK JR
+http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", HOLA TV
+http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", PASIONES 
+http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CINE CANAL
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", MULTIPREMIER
+http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", STUDIO UNIVERSAL 
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CARTOON NETWORK 
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", WB TV
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", FOX SPORTS 2 mx
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ESPN mx
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ESPN 2 mx
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", SONY CHANEL 
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", NICK MUSIC
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TELEMUNDO
+http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TRU TV
+http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CARTOONITO
+http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", STAR CHANNEL 
+http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", HISTORY
+http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", SYFY
+http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", BABY TV
+http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CNN
+http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", MTV
+http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", UNIVERSAL TV
+http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", UNIVERSO
+http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ENI
+http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ANIMAL PLANET
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ZOO MOO
+http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TNT
+http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CANAL 12 SV
+http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", NAT GEO
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", HBO 2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", KANAL D
+http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", DREAMWORKS
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", FOX DEPORTES
+http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", H&H
+http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", FOX SPORTS 3 mx
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TURBO
+http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", NICK
+http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ESPN 3 mx
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", FOX
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TVE
+http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CANAL 11 GT
+http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", MODO CINE
+http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", GOLDEN
+http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", FILM & ART
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TNT SPORTS CHI
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ENLACE
+http://168.227.22.18:1935/live/mobile-145/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", HINSPAN TV
+http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TELEMUNDO INTER
+http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", IVC
+http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", LIFETIME
+http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", E
+http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", HISTORY 2
+http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", A&E
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+
+#EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E HD
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",AMC HD
+http://45.166.92.22:58001/play/a00q/index.m3u8
+#EXTINF:0 tvg-id="AXN.it" group-title="Channels",AXN HD
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:0 tvg-id="animal-hd" group-title="Channels",Animal Planet HD
+http://45.166.92.22:58001/play/a00m/index.m3u8
+#EXTINF:0 tvg-id="Antena3.ro" group-title="Channels",Antena 3
+http://45.166.92.22:58001/play/a041/index.m3u8
+#EXTINF:0 tvg-id="CinecanalHD.mx" group-title="Channels",CINECANAL HD
+http://45.166.92.22:58001/play/a04b/index.m3u8
+#EXTINF:0 tvg-id="CineLatino.mx" group-title="Channels",Cine Latino
+http://45.166.92.22:58001/play/a02c/index.m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",CineCanal
+http://45.166.92.22:58001/play/a02f/index.m3u8
+#EXTINF:0 tvg-id="HDTheater.mx" group-title="Channels",DISCOVERY THEATHER HD
+http://45.166.92.22:58001/play/a014/index.m3u8
+#EXTINF:0 tvg-id="disneychannel.de" group-title="Channels",DISNEY HD
+http://45.166.92.22:58001/play/a04q/index.m3u8
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",Discovery Channel HD
+http://45.166.92.22:58001/play/a01n/index.m3u8
+#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="Channels",Discovery Home & Health
+http://45.166.92.22:58001/play/a027/index.m3u8
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",Discovery ID HD
+http://45.166.92.22:58001/play/a01s/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="Channels",Discovery Kids HD
+http://45.166.92.22:58001/play/a04y/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",Discovery Turbo
+http://45.166.92.22:58001/play/a026/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="Channels",Discovery World HD
+http://45.166.92.22:58001/play/a01p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",E! Entertairment HD
+http://45.166.92.22:58001/play/a00n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Europa HD
+http://45.166.92.22:58001/play/a00t/index.m3u8
+#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="Channels",FOX SPORTS 3 HD
+http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Channels",FX HD
+http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FX Movies HD
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:0 tvg-id="FilmyArtsHD.cl" group-title="Channels",Film & arts HD
+http://45.166.92.22:58001/play/a00o/index.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Channels",Fox Sports  HD
+http://45.166.92.22:58001/play/a02m/index.m3u8
+#EXTINF:0 tvg-id="GolTVHD.cl" group-title="Channels",GOL TV HD
+http://45.166.92.22:58001/play/a04k/index.m3u8
+#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO HD
+http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO Plus HD
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO XTREME
+http://45.166.92.22:58001/play/a03w/index.m3u8
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO2 HD
+http://45.166.92.22:58001/play/a03t/index.m3u8
+#EXTINF:0 tvg-id="H2.uk" group-title="Channels",HISTORY 2 HD
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HOLA! TV HD
+http://45.166.92.22:58001/play/a016/index.m3u8
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",History HD
+http://45.166.92.22:58001/play/a038/index.m3u8
+#EXTINF:0 tvg-id="HomeyHealthHD.cl" group-title="Channels",Home & Health HD
+http://45.166.92.22:58001/play/a015/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV SIM HD
+http://45.166.92.22:58001/play/a018/index.m3u8
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",Nat Geo HD
+http://45.166.92.22:58001/play/a01k/index.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="Channels",National Geographic
+http://45.166.92.22:58001/play/a032/index.m3u8
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",Paramount HD
+http://45.166.92.22:58001/play/a01l/index.m3u8
+#EXTINF:0 tvg-id="set" group-title="Channels",SONY HD
+http://45.166.92.22:58001/play/a04a/index.m3u8
+#EXTINF:0 tvg-id="SpaceHD.mx" group-title="Channels",SPACE HD
+http://45.166.92.22:58001/play/a02o/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR CHANNEL HD
+http://45.166.92.22:58001/play/a048/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star TVE HD
+http://45.166.92.22:58001/play/a00x/index.m3u8
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Channels",Studio Universal HD
+http://45.166.92.22:58001/play/a00k/index.m3u8
+#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM
+http://45.166.92.22:58001/play/a03l/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEMUNDO MIAMI 51
+http://45.166.92.22:58001/play/a05i/index.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
+http://45.166.92.22:58001/play/a04o/index.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT HD
+http://45.166.92.22:58001/play/a013/index.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Channels",TNT Series HD
+http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVE HD
+http://45.166.92.22:58001/play/a04r/index.m3u8
+#EXTINF:0 tvg-id="TelemundoEast.us" group-title="Channels",Telemundo HD
+http://45.166.92.22:58001/play/a00r/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Universal cinema HD
+http://45.166.92.22:58001/play/a01t/index.m3u8
+#EXTINF:0 tvg-id="UnivisionEast.us" group-title="Channels",Univision HD
+http://45.166.92.22:58001/play/a01r/index.m3u8
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Channels",WARNER HD
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN 🇲🇽
+http://45.182.21.251:33334/play/a07y/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN 🇲🇽
+http://204.12.247.162:8080/premium66/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN HD USA 🇲🇽
+http://45.182.21.251:33334/play/a077/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN 🇲🇽
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
