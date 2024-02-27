@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ext" group-title="VARIEDADES", TLNOVELAS
+http://bantel.iptvperu.tv:1935/transcoder4-srt/TL_Novelas.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="ADULTOS", Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/.m3u8
