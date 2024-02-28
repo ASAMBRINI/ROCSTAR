@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" group-title="CULTURA", NATGEO WILD ESPAÑA
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA", NATGEO WILD ESP
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:258_HD.smil/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
