@@ -1,4 +1,69 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" group-title="PRUEBA NEW",TELEMUNDO
+http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/u8aB0FY.jpg" group-title="ARGENTINA", CANAL 26 AR
+https://ythlsgo.onrender.com/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/HePcWRZ.jpg" group-title="ARGENTINA", C5N AR
+https://ythlsgo.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1RZgXxI.jpg" group-title="ARGENTINA", EL TRECE AR
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/LS4R6UJ.jpg" group-title="ARGENTINA", TELEFE ARG
+https://8mwx.short.gy/TelefePlutoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oMGlz6e.jpg" group-title="ARGENTINA", TELEMAX AR
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VTQUnaO.jpg" group-title="ARGENTINA", TN 24¹ AR
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VTQUnaO.jpg" group-title="ARGENTINA", TN 24² AR
+https://livetrx02.vodgc.net/TN24_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/F8iOZBp.jpg" group-title="ARGENTINA", TVP ARG
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qpsnlAw.jpg" group-title="DEPORTES", ESPN 🇵🇪
+https://8mwx.short.gy/ESPNAR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3D3L6B4.jpg" group-title="DEPORTES", ESPN 2 🇵🇪
+https://8mwx.short.gy/ESPN2AR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PXFjlD0.jpg" group-title="DEPORTES", ESPN 3 🇵🇪
+https://8mwx.short.gy/ESPN3AR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PVYIjMn.jpg" group-title="DEPORTES", ESPN 4 🇵🇪
+https://8mwx.short.gy/ESPN4AR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PVYIjMn.jpg" group-title="DEPORTES", ESPN 4 🇵🇪
+https://8mwx.short.gy/ESPN4AREXTRA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bCVYS7f.jpg" group-title="DEPORTES", ESPN 5 🇵🇪
+https://8mwx.short.gy/ESPN5AR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/h9l4jnB.jpg" group-title="DEPORTES", ESPN 6 🇵🇪
+https://8mwx.short.gy/ESPN6AR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/LgKmQPr.jpg" group-title="DEPORTES", ESPN 7 🇵🇪
+https://8mwx.short.gy/ESPN7AR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jad4cIz.jpg" group-title="DEPORTES", FOX SPORTS 1
+https://8mwx.short.gy/FOXSPORTS1AR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jad4cIz.jpg" group-title="DEPORTES", FOX SPORTS 2
+https://8mwx.short.gy/FOXSPORTS2AR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jad4cIz.jpg" group-title="DEPORTES", FOX SPORTS 3
+https://8mwx.short.gy/FOXSPORTS3AR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jad4cIz.jpg" group-title="DEPORTES", TNT SPORTS
+https://8mwx.short.gy/TNTSPORTSAR/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/eHgOPfl.jpg" group-title="DEPORTES", TyC SPORTS
+https://8mwx.short.gy/TyCSPORTSAR/index.m3u8
 
 #EXTINF:-1 tvg-id="CL | Classic +" tvg-name="CL | Classic +" tvg-logo="https://pbs.twimg.com/media/FvYjfCkWIAIvMGW?format=png&name=240x240" group-title="PELICULAS Y SERIES", En prueba | Classic +
 http://bantel.iptvperu.tv:1935/bantel/classic.stream/playlist.m3u8
@@ -33,16 +98,6 @@ http://138.59.177.34:8000/play/a01q/index.m3u8
 http://38.41.8.1:8000/play/a00d
 #EXTINF:-1 tvg-id="ext" group-title="CULTURA", NATGEO WILD ESP
 https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:258_HD.smil/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fad9eaf7a980300686af7809c0377a00:0d270d4c1ef2a319aeaf2f424e9b1442
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7afOgRS.png" group-title="PREMIUM",RCN
-https://1185-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" group-title="VARIEDADES", TLNOVELAS
 http://bantel.iptvperu.tv:1935/transcoder4-srt/TL_Novelas.stream/playlist.m3u8
