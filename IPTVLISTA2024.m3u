@@ -1,6 +1,8 @@
 #EXTM3U
+
 EXTINF:-1 tvg-id="ext" group-title="PRUEBA NEW",TELEFE
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1713736834~acl=%2f*~data=hdntl~hmac=95e31c279407ffaad4117cbcf808a31667abdd8d1fab83a3ef7e3da8e449581d/master-mtlf.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="PRUEBA NEW",TELEMUNDO
 http://stream.flynetwifi.com:1935/live/mobile-040/playlist.m3u8
 
