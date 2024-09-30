@@ -1,4 +1,94 @@
 #EXTM3U
+#EXTINF:-1 group-title="ARGENTINA" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", EL OCHO TV
+https://live-b.cf.dmcdn.net/sec2(6ZXzryTLFvB1vGPg6UKHLcVcOPvZgkOTAOnFlVFZIDxmcB94O54s2Gm4aX8K2adgfCQluKLUJsx_GDJGsKZrcHneStZiGwsWde-JK-cPHdKyAUb-ia6Krgs68O6gGEpc)/dm/3/x8z8w7c/d/live-720.m3u8
+#EXTINF:-1 group-title="PACK FUTBOL",TNT SPORTS FHD
+http://bgtv.xyz/play/play-926.php?tlat=156&token=asdfasdasdfggh
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="PACK FUTBOL",ESPN Premium FHD
+http://bgtv.xyz/play/play-926.php?tlat=165&token=asdfasdasdfggh
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="PACK FUTBOL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", TNT SPORTS |AR|
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/912.m3u8
+#EXTINF:-1 group-title="PACK FUTBOL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", ESPN PREMIUM |AR|
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/1171.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Golden
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/611.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Golden Edge
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/613.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Golden Plus
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/617.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Golden Premier
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/619.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/621.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO ᵸᴰ
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/625.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO 2
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/627.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO 2 ᵸᴰ
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/629.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Family 3U8
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/632.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Family ᵸᴰ
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/636.m3u8
+#EXTINF:-1 group-title="PPACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO MUNDI
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/658.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Plus
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/637.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Plus ᵸᴰ
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/640.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO POP
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/652.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO POP ᵸᴰ
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/655.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Signature
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/642.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Signature ᵸᴰ
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/645.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO XTREME
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/647.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO XTREME ᵸᴰ
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/650.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png"  group-title="PACK HBO - UNIVERSAL", Universal Channel
+http://bgtv.xyz/play/play-926.php?ul=137&token=asdfasdasdfggh
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png"  group-title="PACK HBO - UNIVERSAL", Universal Channel
+http://bgtv.xyz/play/play-926.php?ul=902&token=asdfasdasdfggh
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_comedy.png"  group-title="PACK HBO - UNIVERSAL", Universal Comedy
+http://bgtv.xyz/play/play-926.php?ul=903&token=asdfasdasdfggh
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png"  group-title="PACK HBO - UNIVERSAL", Universal Crime Este
+http://bgtv.xyz/play/play-926.php?ul=904&token=asdfasdasdfggh
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_crime.png"  group-title="PACK HBO - UNIVERSAL", Universal Crime Oeste
+http://bgtv.xyz/play/play-926.php?ul=502&token=asdfasdasdfggh
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_premier.png"  group-title="PACK HBO - UNIVERSAL", Universal Premier Este
+http://bgtv.xyz/play/play-926.php?ul=901&token=asdfasdasdfggh
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png"  group-title="PACK HBO - UNIVERSAL", Universal Reality
+http://bgtv.xyz/play/play-926.php?ul=905&token=asdfasdasdfggh
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png"  group-title="PACK HBO - UNIVERSAL", Universal Reallity
+PACK HBO - UNIVERSALy/play-926.php?ul=99&token=asdfasdasdfggh
+
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Cinema
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/834.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Cinema ᵸᴰ
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/836.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Comedy
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/830.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Comedy ᵸᴰ
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/833.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Crime
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/826.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Crime ᵸᴰ
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/829.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Premiere
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/838.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Premiere ᵸᴰ
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/843.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Reality
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/846.m3u8
+#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Reality ᵸᴰ
+https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/847.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="ADULTOS", Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/.m3u8
