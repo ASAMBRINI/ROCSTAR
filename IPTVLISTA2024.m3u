@@ -1,4 +1,30 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Musica",Vevo Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo Iconos Latinos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo Reggaeton & Trap
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo Regional Mexicano
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64dab5fe35425100080e2991/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo Country
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo R&B
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo '70s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo '80s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo '90s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo 2K
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo Hip-Hop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 #EXTINF:-1 group-title=ARGENTINA" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", TELEFE |AR|
 https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/792.m3u8
 #EXTINF:-1 group-title="ARGENTINA" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", EL OCHO TV
@@ -15,45 +41,6 @@ http://bgtv.xyz/play/play-926.php?tlat=165&token=asdfasdasdfggh
 https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/912.m3u8
 #EXTINF:-1 group-title="PACK FUTBOL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", ESPN PREMIUM |AR|
 https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/1171.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Golden
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/611.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Golden Edge
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/613.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Golden Plus
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/617.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Golden Premier
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/619.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/621.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/625.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO 2
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/627.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO 2 ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/629.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Family 3U8
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/632.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Family ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/636.m3u8
-#EXTINF:-1 group-title="PPACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO MUNDI
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/658.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Plus
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/637.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Plus ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/640.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO POP
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/652.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO POP ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/655.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Signature
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/642.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Signature ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/645.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO XTREME
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/647.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO XTREME ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/650.m3u8
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png"  group-title="PACK HBO - UNIVERSAL", Universal Channel
 http://bgtv.xyz/play/play-926.php?ul=137&token=asdfasdasdfggh
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png"  group-title="PACK HBO - UNIVERSAL", Universal Channel
@@ -69,28 +56,51 @@ http://bgtv.xyz/play/play-926.php?ul=901&token=asdfasdasdfggh
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png"  group-title="PACK HBO - UNIVERSAL", Universal Reality
 http://bgtv.xyz/play/play-926.php?ul=905&token=asdfasdasdfggh
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal_reality.png"  group-title="PACK HBO - UNIVERSAL", Universal Reallity
-PACK HBO - UNIVERSALy/play-926.php?ul=99&token=asdfasdasdfggh
+http://bgtv.xyz/play/play-926.php?ul=99&token=asdfasdasdfggh
 
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Cinema
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/834.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Cinema ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/836.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Comedy
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/830.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Comedy ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/833.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Crime
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/826.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Crime ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/829.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Premiere
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/838.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Premiere ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/843.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Reality
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/846.m3u8
-#EXTINF:-1 group-title="PACK HBO - UNIVERSAL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Reality ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/847.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png"  group-title="CANALES VARIADOS", HBO
+http://bgtv.xyz/play/play-105.php?ul=62&token=afsgdfgjhjhkhl
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"  group-title="CANALES VARIADOS", HBO 2
+http://bgtv.xyz/play/play-105.php?ul=300&token=afsgdfgjhjhkhl
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"  group-title="CANALES VARIADOS", HBO 2 ᵸᴰ
+http://bgtv.xyz/play/play-105.php?ul=732&token=afsgdfgjhjhkhl
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"  group-title="CANALES VARIADOS", HBO 2 ᵸᴰ (EN)
+http://bgtv.xyz/play/play-105.php?ul=733&token=afsgdfgjhjhkhl
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png"  group-title="CANALES VARIADOS", HBO 2 MX
+http://bgtv.xyz/play/play-105.php?ul=63&token=afsgdfgjhjhkhl
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png"  group-title="CANALES VARIADOS", HBO Family
+http://bgtv.xyz/play/play-105.php?ul=968&token=afsgdfgjhjhkhl
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png"  group-title="CANALES VARIADOS", HBO ᵸᴰ
+http://bgtv.xyz/play/play-105.php?ul=654&token=afsgdfgjhjhkhl
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbomundi.png"  group-title="CANALES VARIADOS", HBO Mundi
+http://bgtv.xyz/play/play-105.php?ul=64&token=afsgdfgjhjhkhl
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png"  group-title="CANALES VARIADOS", HBO Plus
+http://bgtv.xyz/play/play-105.php?ul=655&token=afsgdfgjhjhkhl
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png"  group-title="CANALES VARIADOS", HBO Plus MX
+http://bgtv.xyz/play/play-105.php?ul=728&token=afsgdfgjhjhkhl
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png"  group-title="CANALES VARIADOS", HBO Pop
+http://bgtv.xyz/play/play-105.php?ul=977&token=afsgdfgjhjhkhl
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbopop.png"  group-title="CANALES VARIADOS", HBO Pop
+http://bgtv.xyz/play/play-105.php?ul=814&token=afsgdfgjhjhkhl
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png"  group-title="CANALES VARIADOS", HBO Xtreme
+http://bgtv.xyz/play/play-105.php?ul=971&token=afsgdfgjhjhkhl
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png"  group-title="CANALES VARIADOS", HBO Xtreme MX
+http://bgtv.xyz/play/play-105.php?ul=779&token=afsgdfgjhjhkhl
+
+#EXTINF:-1 group-title="CINE Y SERIES",Golden Plus
+http://bgtv.xyz/play/play-105.php?tlat=73&token=afsgdfgjhjhkhl
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CINE Y SERIES",Golden Edge
+http://bgtv.xyz/play/play-105.php?tlat=74&token=afsgdfgjhjhkhl
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="CINE Y SERIES",Golden Premier
+http://bgtv.xyz/play/play-105.php?tlat=75&token=afsgdfgjhjhkhl
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+
+
 
 #EXTINF:-1 tvg-id="ext" group-title="ADULTOS", Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/.m3u8
@@ -345,7 +355,7 @@ https://delivery.cdn.rcs.net.ar/iptelva/ch12cba_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",America TV
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",Telefe
-https://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",El Trece
 https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",El Nueve
@@ -1015,38 +1025,7 @@ https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 https://5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8
 #EXTINF:-1 tvg-id="X24.ar",X24 (360p)
 http://srv1.zcast.com.ar/x24hd/x24hd/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAnimal.ar",Xtrema Animal (360p)
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAnime.ar",Xtrema Anime (360p)
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCartoons.ar",Xtrema Cartoons (360p)
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAccion.ar",Xtrema Cine Acción (268p)
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAsia.ar",Xtrema Cine Asia (268p)
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaComedy.ar",Xtrema Cine Comedy (344p)
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaDrama.ar",Xtrema Cine Drama (360p)
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaEuropa.ar",Xtrema Cine Europa (360p)
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaFamily.ar",Xtrema Cine Family (274p)
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaHindi.ar",Xtrema Cine Hindi (272p)
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaLatina.ar",Xtrema Cine Latino (360p)
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaSuspenso.ar",Xtrema Cine Suspenso (360p)
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaTerror.ar",Xtrema Cine Terror (270p)
-https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar",Xtrema Retro Cartoons (360p)
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaRetroSeries.ar",Xtrema Retro Series (360p)
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaSeries.ar",Xtrema Series (360p)
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ZondaTV.ar",Zonda TV (432p) [Geo-blocked]
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar",Garage TV Latin America
