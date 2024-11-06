@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ARGENTINA",Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
+
 #EXTINF:-1 group-title="PACK FUTBOL",Espn Premium
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
 #EXTINF:-1 group-title="PACK FUTBOL",Tnt Sports
