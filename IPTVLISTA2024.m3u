@@ -384,6 +384,9 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="MUSICALES",MUCH MUSIC
 https://delivery.cdn.rcs.net.ar/mnp/much_music_hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",OCHO TV
+https://ythls.armelin.one/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ext" group-title="CULTURA",NATIONAL GEOGRAPHIC
