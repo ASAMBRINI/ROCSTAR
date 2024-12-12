@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="CINE Y SERIES", STUDIO UNIVERSAL
+http://bantel-cdn1.iptvperu.tv:1935/cdnygz/studiouniversal/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", FX
+http://bantel-cdn1.iptvperu.tv:1935/cdnygz/FX/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", CLASSIC
+http://bantel-cdn1.iptvperu.tv:1935/cdnygz/Classic/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", CINE PREMIUM
+http://bantel-cdn1.iptvperu.tv:1935/cdnksg/cinepremium/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", CINE FAMILIAR
+http://bantel-cdn1.iptvperu.tv:1935/cdnksg/cinefamiliar/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", CINE HISPANO
+http://bantel-cdn1.iptvperu.tv:1935/cdnksg/cinehispano/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", CINECANAL
+http://bantel-cdn1.iptvperu.tv:1935/cdnksg/cinecanal/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN
+http://bantel-cdn1.iptvperu.tv:1935/cdnygz/Golden/playlist.m3u8
+#EXTINF:-1 group-title="NOVELAS", PASIONES
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/pasiones.stream/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", SONY CHANNEL
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/sonychannel/playlist.m3u8
+#EXTINF:-1 group-title="NOVELAS", TLNOVELAS
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/TL_Novelas/playlist.m3u8
+
 #EXTINF:-1 group-title="CULTURALES", HISTORY 
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
 
