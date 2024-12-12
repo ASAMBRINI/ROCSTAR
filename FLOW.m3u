@@ -376,7 +376,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd
 https://chromecast.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_2A/Eurochannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b47f257df0314d09a7f8355c3abe1dc6:bdc9f1696a82ee7398dd3a7fa82300e2
+#KODIPROP:inputstream.adaptive.license_key=YmQyNDliZWI3NDBjMmM2OTQ4OWI1MzI4MzFmZTU0MjA:bdc9f1696a82ee7398dd3a7fa82300e2
 #EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="CANALES FLOW"  ,Europa Europa
 https://chromecast.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_2A/Europa_Europa.mpd
 
@@ -1050,7 +1050,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Can
 https://chromecast.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=59ef9057114f44a480b62e36a6b1374f:74ef97bc54df5655c3a1d4f80b16e8d7
+#KODIPROP:inputstream.adaptive.license_key=YmQyNDliZWI3NDBjMmM2OTQ4OWI1MzI4MzFmZTU0MjA:74ef97bc54df5655c3a1d4f80b16e8d7
 #EXTINF:-1   group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="CANALES FLOW" ,TELEFÉ SANTA FE
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd
 
