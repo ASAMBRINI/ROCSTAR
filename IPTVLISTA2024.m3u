@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="PRUEBAS", MTV
+http://50.7.137.106:8080/MTV/index.m3u8?token=test
+#EXTINF:-1 group-title="PRUEBAS", CMTV HD
+http://50.7.137.106:8080/CMTV/index.m3u8?token=test
+#EXTINF:-1 group-title="PRUEBAS", TVI HD
+http://50.7.137.106:8080/TVI/index.m3u8?token=test
+#EXTINF:-1 group-title="PRUEBAS", VH1
+http://50.7.137.106:8080/VH1/index.m3u8?token=test
+#EXTINF:-1 group-title="PRUEBAS", FOX HD
+http://50.7.137.106:8080/FOX/index.m3u8?token=test
+#EXTINF:-1 group-title="PRUEBAS", DISCOVERY HD
+http://50.7.137.106:8080/DISCOVERY/index.m3u8?token=test
+#EXTINF:-1 group-title="PRUEBAS", AMC HD
+http://50.7.137.106:8080/AMC/index.m3u8?token=test
+#EXTINF:-1 group-title="PRUEBAS", SYFY HD
+http://50.7.137.106:8080/SYFY/index.m3u8?token=test
+#EXTINF:-1 group-title="PRUEBAS", HOLLYWOOD HD
+http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
+#EXTINF:-1 group-title="PRUEBAS", AXN HD
+http://50.7.137.106:8080/AXN/index.m3u8?token=test
+#EXTINF:-1 group-title="PRUEBAS", NAT_GEO_WILD HD
+http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
+
+
 #EXTINF:-1 group-title="CINE Y SERIES", STUDIO UNIVERSAL
 http://bantel-cdn1.iptvperu.tv:1935/cdnygz/studiouniversal/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES", FX
