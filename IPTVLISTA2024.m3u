@@ -1,133 +1,160 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="DEPORTES",ESPN
-http://181.78.27.128:8000/play/a03q/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2
-http://181.78.27.128:8000/play/a02d/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 Latin
-http://181.78.27.128:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3
-http://181.78.27.128:8000/play/a03f/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 4
-http://181.78.27.128:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sport 1
-http://181.78.27.128:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 6
-http://181.78.27.128:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 7
-http://181.78.27.128:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HBO
+http://190.11.130.46/mnp/hbo/output.mpd
+#EXTINF:-1 group-title="PRUEBAS", HISTORY
+https://streamer1.nexgen.bz//HISTORY/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HBO MUNDI
+https://streamer1.nexgen.bz//HBO_MUNDI/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HBO POP
+https://streamer1.nexgen.bz//HBO_POP/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HBO PLUS
+https://streamer1.nexgen.bz//HBO_PLUS/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HBO 2
+https://streamer1.nexgen.bz//HBO2/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HBO SIGNATURE
+https://streamer1.nexgen.bz//HBO_SIG/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HBO XTREME
+https://streamer1.nexgen.bz//HBO_XTREME/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HBO FAMILY
+https://streamer1.nexgen.bz//HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", VH1
+https://streamer1.nexgen.bz/VH1/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", TNT
+https://streamer1.nexgen.bz/TNT/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HGTV
+https://streamer1.nexgen.bz/HGTV/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", FOOD
+https://streamer1.nexgen.bz/FOOD/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", MTV
+https://streamer1.nexgen.bz/MTV/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", USA
+https://streamer1.nexgen.bz/USA/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", TBS
+https://streamer1.nexgen.bz/TBS/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", BRAVO
+https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", BET
+https://streamer1.nexgen.bz/BET/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", NICKELODEON
+https://tx2.nexgen.bz:4000/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", Paramount Network 
+https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", LifeTime Movie Network 
+https://streamer1.nexgen.bz/LMN/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", FX  
+https://streamer1.nexgen.bz//FX/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", AMC  
+https://streamer1.nexgen.bz//AMC/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", ATN  
+https://streamer1.nexgen.bz//ATN/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", AXN  
+https://streamer1.nexgen.bz//AXN/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", BET  
+https://streamer1.nexgen.bz//BET/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", GET  
+https://streamer1.nexgen.bz//GET/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", GSN  
+https://streamer1.nexgen.bz//GSN/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HMM  
+https://streamer1.nexgen.bz//HMM/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HTV  
+https://streamer1.nexgen.bz//HTV/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", LMN  
+https://streamer1.nexgen.bz//LMN/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", MTV  
+https://streamer1.nexgen.bz//MTV/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", TBN - 
+https://streamer1.nexgen.bz//TBN/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", TBS - 
+https://streamer1.nexgen.bz//TBS/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", TCM - 
+https://streamer1.nexgen.bz//TCM/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", TLC - 
+https://streamer1.nexgen.bz//TLC/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", TNT -  
+https://streamer1.nexgen.bz//TNT/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", USA - 
+https://streamer1.nexgen.bz//USA/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HBO2 - 
+https://streamer1.nexgen.bz//HBO2/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", CINEMAX - 
+https://streamer1.nexgen.bz//CINEMAX/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", VH1 - 
+https://streamer1.nexgen.bz//VH1/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HGTV - 
+https://streamer1.nexgen.bz//HGTV/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", LIFETIME - 
+https://streamer1.nexgen.bz//LIFETIME/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", DISCOVERY - 
+https://streamer1.nexgen.bz//DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HISTORY - 
+https://streamer1.nexgen.bz//HISTORY/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", FUSE - 
+https://streamer1.nexgen.bz//FUSE/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HALLMARK - 
+https://streamer1.nexgen.bz//HALLMARK/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", BRAVO 
+https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", TRUTV - 
+https://streamer1.nexgen.bz//TRUTV/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", FOOD - 
+https://streamer1.nexgen.bz//FOOD/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", SYFY - 
+https://streamer1.nexgen.bz//SYFY/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", ATN - 
+https://tx2.nexgen.bz:4000//ATN/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", AXN - 
+https://tx2.nexgen.bz:4000//AXN/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", BET - 
+https://tx2.nexgen.bz:4000//BET/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", CARTOON - 
+https://tx2.nexgen.bz:4000//CARTOON/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", COOKING - 
+https://tx2.nexgen.bz:4000//COOKING/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HGTV - 
+https://tx2.nexgen.bz:4000//HGTV/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", ESPN - 
+https://tx2.nexgen.bz:4000//ESPN/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", LIFETIME - 
+https://tx2.nexgen.bz:4000//LIFETIME/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", MTV - 
+https://tx2.nexgen.bz:4000//MTV/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", BYU - 
+https://tx2.nexgen.bz:4000//BYU/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", CBC - 
+https://tx2.nexgen.bz:4000//CBC/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", NICKELODEON - 
+https://tx2.nexgen.bz:4000//NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", OUTDOOR - 
+https://tx2.nexgen.bz:4000//OUTDOOR/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", VH1 - 
+https://tx2.nexgen.bz:4000//VH1/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", TNT - 
+https://tx2.nexgen.bz:4000//TNT/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", TBN - 
+https://tx2.nexgen.bz:4000//TBN/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", TBS - 
+https://tx2.nexgen.bz:4000//TBS/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", TCM - 
+https://tx2.nexgen.bz:4000//TCM/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", TNT - 
+https://tx2.nexgen.bz:4000//TNT/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", SYFY `but it may be USA`- 
+https://tx2.nexgen.bz:4000//SYFY/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", FOX - 
+https://tx2.nexgen.bz:4000//FOX/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", GET - 
+https://tx2.nexgen.bz:4000//GET/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", HTV - 
+https://tx2.nexgen.bz:4000//HTV/index.m3u8
+#EXTINF:-1 group-title="PRUEBAS", USA
+ https://streamer1.nexgen.bz//SYFY/index.m3u8
+USA - https://streamer1.nexgen.bz//USA/index.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
-http://181.174.228.134:8998/play/a010/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Tnt Sport
-http://181.78.27.128:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Tyc Sport
-http://181.78.27.128:8000/play/a063/index.m3u8
-#EXTINF:0 group-title="DEPORTES",D BIKE
-http://190.60.42.86:8000/play/a00q/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",ESPN
-http://45.181.123.194:8001/play/a04m/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2
-http://45.181.123.194:8001/play/a00x/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3
-http://45.181.123.194:8001/play/a028/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 5
-http://45.181.123.194:8001/play/a00w/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 1
-http://45.181.123.194:8001/play/a00d/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 2
-http://45.181.123.194:8001/play/a016/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 3
-http://45.181.123.194:8001/play/a017/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT
-http://45.181.123.194:8001/play/a01p/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS 2
-http://45.181.123.194:8001/play/a00c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT SPORTS 3
-http://45.181.123.194:8001/play/a011/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN
-http://179.1.139.84:8000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2
-http://179.1.139.84:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://179.1.139.84:8000/play/a09o/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3
-http://179.1.139.84:8000/play/a08s/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 5
-http://179.1.139.84:8000/play/a0a9/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 6
-http://179.1.139.84:8000/play/a086/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 7HD
-http://179.1.139.84:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://179.1.139.84:8000/play/a0as/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://190.242.41.219:9000/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://190.242.41.219:9000/play/a09s/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
-http://190.242.41.219:9000/play/a0a9/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 4HD
-http://190.242.41.219:9000/play/a0b9/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 5HD
-http://190.242.41.219:9000/play/a0as/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 6HD
-http://190.242.41.219:9000/play/a0aa/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 7HD
-http://190.242.41.219:9000/play/a0at/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
-http://190.242.41.219:9000/play/a0br/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",ESPN Plus+
-http://181.114.57.246:4000/play/7mZEEEBQpQGypd9c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2
-http://181.114.57.246:4000/play/3jZRN66nDhuZwLbW/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN3 HD
-http://181.114.57.246:4000/play/4hrEpujghmYgjET8/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",TNT Sports Premiun HD
-http://190.242.41.219:9000/play/a09r/index.m3u8
-
-#EXTINF:0 group-title="DEPORTES",ESPN
-http://190.60.42.86:8000/play/a038/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 2
-http://190.60.42.86:8000/play/a03r/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 3
-http://190.60.42.86:8000/play/a03s/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 4
-http://190.60.42.86:8000/play/a03t/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 5
-http://190.60.42.86:8000/play/a03u/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 6
-http://190.60.42.86:8000/play/a03v/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 7
-http://190.60.42.86:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN COL HD
-http://181.78.82.6:46090/play/a04f/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN ARG HD
-http://181.78.82.6:46090/play/a00q/index.m3u8
-#EXTINF:-1,ESPN CHI HD
-http://181.78.82.6:46090/play/a03d/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM HD
-http://181.78.82.6:46090/play/a02g/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN Plus+
-http://181.114.57.246:4000/play/7mZEEEBQpQGypd9c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 2
-http://181.114.57.246:4000/play/3jZRN66nDhuZwLbW/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN3 HD
-http://181.114.57.246:4000/play/4hrEpujghmYgjET8/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 4 NUEVO STRIM
-http://181.114.57.246:4000/play/zxCvBnM159QsGhk5/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN HD
-http://181.114.57.246:4000/play/Z5TWRUY3869wGRLG/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 5
-http://181.114.57.246:4000/play/zMbqBSS3gramuTPy/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOX Sports 2 HD
-http://181.114.57.246:4000/play/eGhTK4fJJR5p5M3N/index.m3u8
+#EXTINF:-1 group-title="ARGENTINA", TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES",TYC SPORTS HD
@@ -136,149 +163,20 @@ http://181.78.82.6:46090/play/a024/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",TyCSports HD
 http://181.114.57.246:4000/play/CMGEPVwDeTnyM7Rb/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",ESPN
-https://tx2.nexgen.bz:4000//ESPN/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN2
-https://tx2.nexgen.bz:4000//ESPN2/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", TSN 1 🇨🇦
-http://212.102.60.231/TSN_1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TSN 2 🇨🇦
-http://212.102.60.231/TSN_2/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TSN 3 🇨🇦
-http://212.102.60.231/TSN_3/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TSN 4 🇨🇦
-http://212.102.60.231/TSN_4/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", TSN 5 🇨🇦
-http://212.102.60.231/TSN_5/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", CBS SPORT 🇺🇸
-https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/225px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2
-http://212.102.60.231/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/100px-ESPN_U_logo.svg.png" group-title="DEPORTES",ESPN U
-http://212.102.60.231/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", FS 1 SPORT 🇺🇸
-http://212.102.60.10/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", FS 1 SPORT 🇺🇸
-https://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/270px-Golf_Channel_Logo_2018.png" group-title="DEPORTES",Golf Channel
-http://212.102.60.231/GOLF_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", FOX Sports 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", NFL NETWORK
-http://212.102.60.231/NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",NBA TV
-https://tx2.nexgen.bz:4000//NBA/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",NFL  
-https://tx2.nexgen.bz:4000//NFL/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",EUROSPORT 1 🇪🇸
-http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",EUROSPORT 2 🇪🇸
-http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 1 NORTE 🇩🇴
-http://45.71.254.1:8000/play/a0e6/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN 2 NORTE 🇩🇴
-http://45.71.254.1:8000/play/a0e7/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Claro Sports 1 HD
-http://38.180.133.31:8000/play/a0yg/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Claro Sports 2 HD
-http://38.180.133.31:8000/play/a0yh/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",AZTECA 7 HD TEST
-http://190.92.10.66:4000/play/a007/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",BUNDESLIGA TEST
-http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",DEPORTES TVC 1
-http://190.92.10.66:4000/play/a008/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN DEPORTES USA TEST
-http://190.92.10.66:4000/play/a003/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",FUTV TEST
-http://190.92.10.66:4000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SKY SPORT LA LIGA TEST
-http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TEST2
-http://190.92.10.66:4000/play/a0h7/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TIGO CDN
-http://190.92.10.66:4000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TUDN USA
-http://190.92.10.66:4000/play/a002/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TVC multicast
-http://190.92.10.66:4000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",UNIVISION 51
-http://190.92.10.66:4000/play/a005/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", ESPN NEWS F1 🇺🇸
-https://c.trydarius.shop/espnnews.m3u8
-#EXTINF:-1 tvg-id="GG" tvg-logo="https://i.ibb.co/sbPVXMT/450px-Major-League-Baseball-logo-svg.png" group-title="DEPORTES",Major League Baseball
-http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="..." tvg-logo="https://i.ibb.co/Wp3KyfP/380px-05-NHL-Shield-svg.png" group-title="DEPORTES",National Hockey League
-https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+
+
 #EXTINF:-1  tvg-id="beINSports.us" tvg-name="beIN Sports HD" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75"  group-title="DEPORTES",beIN Sports
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",Movistar Deportes HD
-http://200.60.124.19:29000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",SKY SPORT
-http://190.92.10.66:4000/play/a002/index.m3u8
 
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="DEPORTES",Abu Dhabi Sports 1 (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/4rVm3oZ.png" group-title="DEPORTES",Abu Dhabi Sports 2 (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="DEPORTES",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="DEPORTES",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png"  group-title="DEPORTES", GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/419614354158280704/WBvTLeRR.jpeg"  group-title="DEPORTES", PAC 12
-https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:0 group-title="DEPORTES" logo="https://i.postimg.cc/P5FPcT6H/20221004-174618.png", KOZOOM TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2 HD
-http://181.78.82.6:46090/play/a00i/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
-http://181.78.82.6:46090/play/a00v/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 4 HD
-http://181.78.82.6:46090/play/a01l/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 5 HD
-http://181.78.82.6:46090/play/a01c/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 6 HD
-http://181.78.82.6:46090/play/a00w/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 7 HD
-http://181.78.82.6:46090/play/a01d/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN COL HD
-http://181.78.82.6:46090/play/a04f/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN ARG HD
-http://181.78.82.6:46090/play/a00q/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN CHI HD
-http://181.78.82.6:46090/play/a03d/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM HD
-http://181.78.82.6:46090/play/a02g/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
-http://201.182.248.254:8888/play/a080/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
-http://201.182.248.254:8888/play/a0b4/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
-http://201.182.248.254:8888/play/a00p/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 4HD
-http://201.182.248.254:8888/play/a0ar/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 4HD
-http://201.182.248.254:8888/play/a07z/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 5HD
-#EXTVLCOPT:network-caching=1000
-http://201.182.248.254:8888/play/a08n/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 6HD
-#EXTVLCOPT:network-caching=1000
-http://201.182.248.254:8888/play/a06t/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN 7HD
-http://201.182.248.254:8888/play/a0b0/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN HD
-http://201.182.248.254:8888/play/a09d/index.m3u8
-#EXTINF:0 group-title="DEPORTES",ESPN Premium HD
-http://201.182.248.254:8888/play/a08k/index.m3u8
+
+
 
 
 
@@ -479,52 +377,8 @@ http://50.7.137.106:8080/AXN/index.m3u8?token=test
 http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
 
 
-#EXTINF:-1 group-title="CINE Y SERIES", STUDIO UNIVERSAL
-http://bantel-cdn1.iptvperu.tv:1935/cdnygz/studiouniversal/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", FX
-http://bantel-cdn1.iptvperu.tv:1935/cdnygz/FX/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", CLASSIC
-http://bantel-cdn1.iptvperu.tv:1935/cdnygz/Classic/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", CINE PREMIUM
-http://bantel-cdn1.iptvperu.tv:1935/cdnksg/cinepremium/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", CINE FAMILIAR
-http://bantel-cdn1.iptvperu.tv:1935/cdnksg/cinefamiliar/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", CINE HISPANO
-http://bantel-cdn1.iptvperu.tv:1935/cdnksg/cinehispano/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", CINECANAL
-http://bantel-cdn1.iptvperu.tv:1935/cdnksg/cinecanal/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN
-http://bantel-cdn1.iptvperu.tv:1935/cdnygz/Golden/playlist.m3u8
-#EXTINF:-1 group-title="NOVELAS", PASIONES
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/pasiones.stream/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", SONY CHANNEL
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/sonychannel/playlist.m3u8
-#EXTINF:-1 group-title="NOVELAS", TLNOVELAS
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/TL_Novelas/playlist.m3u8
 
-#EXTINF:-1 group-title="CULTURALES", HISTORY 
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
 
-#EXTINF:-1 group-title="CULTURALES", HISTORY 2
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
-
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/canal-10.jpg" group-title="AR-TV", Canal 10 Tucumán
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Canal_10_Tucuman)/index.m3u8
-
-#EXTINF:-1  group-title="Deportes", Directv Sports 1 SD
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/874.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
-#EXTINF:-1  group-title="Deportes", Directv Sports 2
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/877.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg
-#EXTINF:-1  group-title="Deportes", Directv Sports Plus
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/879.m3u8
-##EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
 
 #EXTINF:-1 group-title="24/7", Run Time Latino
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
@@ -937,8 +791,7 @@ https://delivery.cdn.rcs.net.ar/iptelva/ch10cba_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/iptelva/ch12cba_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",America TV
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",Telefe
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",El Trece
 https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",El Nueve
@@ -1110,68 +963,225 @@ https://delivery.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",LN+
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Golden
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/611.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Golden Edge
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/613.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Golden Plus
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/617.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Golden Premier
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/619.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/621.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/625.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO 2
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/627.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO 2 ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/629.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Family 3U8
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/632.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Family ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/636.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO MUNDI
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/658.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Plus
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/637.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Plus ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/640.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO POP
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/652.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO POP ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/655.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Signature
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/642.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO Signature ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/645.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO XTREME
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/647.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", HBO XTREME ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/650.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",TELEFE CORDOBA
+http://190.11.130.46/iptelva/ch8cba/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",CANAL 10 CORDOBA
+http://190.11.130.46/iptelva/ch10cba/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",CANAL DOCE CORDOBA
+http://190.11.130.46/iptelva/ch12cba/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",America TV
+http://190.11.130.46/mnp/america/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",Telefe
+http://190.11.130.46/mnp/telefe/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",El Trece
+http://190.11.130.46/mnp/el13/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",El Nueve
+http://190.11.130.46/mnp/elnueve/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",AMERICA 24       
+http://190.11.130.46/mnp/a24/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",CRONICA HD
+http://190.11.130.46/mnp/cronica/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",CANAL 26
+http://190.11.130.46/mnp/canal26/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",CNN EN ESPAÑOL
+http://190.11.130.46/mnp/cnne/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY TURBO
+http://190.11.130.46/mnp/dsc_turbo/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",TV PUBLICA ARGENTINA
+http://190.11.130.46/mnp/tvp/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",ESPN
+http://190.11.130.46/mnp/espn/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",ESPN 2
+http://190.11.130.46/mnp/espn2/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",ESPN 3
+http://190.11.130.46/mnp/espn3/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",ESPN EXTRA
+http://190.11.130.46/mnp/espn_extra/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",FOX SPORTS
+http://190.11.130.46/mnp/fox_sport/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",FOX SPORTS 2
+http://190.11.130.46/mnp/fox_sport2/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",FOX SPORTS 3
+http://190.11.130.46/mnp/fox_sport3/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",TYC SPORTS
+https://el4live1.boldmss.com/TYC/TYC.isml/TYC.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",DISCOVERY KIDS
+https://el4live1.boldmss.com/DKIDS/DKIDS.isml/DKIDS.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",DISNEY JUNIOR
+https://el4live1.boldmss.com/DJUNIOR/DJUNIOR.isml/DJUNIOR.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",CINEMAX
+https://el4live1.boldmss.com/CINEMAX/CINEMAX.isml/CINEMAX.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",TL NOVELAS
+https://el4live1.boldmss.com/TL_NOVELAS/TL_NOVELAS.isml/TL_NOVELAS.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",EL GOURMET
+https://el4live1.boldmss.com/GOURMET/GOURMET.isml/GOURMET.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",STAR CHANNEL
+https://el4live1.boldmss.com/FOX/FOX.isml/FOX.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY CHANNEL
+https://el4live1.boldmss.com/DISCOVERY_HD/DISCOVERY_HD.isml/DISCOVERY_HD.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",HISTORY
+https://el4live1.boldmss.com/HISTORY/HISTORY.isml/HISTORY.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",FOX SPORTS PREMIUM
+https://el4live1.boldmss.com/FSP/FSP.isml/FSP.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",ESPN PREMIUM
+http://190.11.130.46/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",TNT SPORTS
+https://el4live1.boldmss.com/TNTS/TNTS.isml/TNTS.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",TNT SPORTS
+http://190.11.130.46/mnp/tntsports/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",NAT GEO
+https://el4live1.boldmss.com/NGEO/NGEO.isml/NGEO.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO
+http://190.52.39.211/HBO/HBO.isml/HBO.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO 2
+http://190.52.39.211/HBO_2/HBO_2.isml/HBO_2.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO PLUS
+http://190.52.39.211/HBO+/HBO+.isml/HBO+.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO FAMILY
+http://190.52.39.211/HBO_FAMILY/HBO_FAMILY.isml/HBO_FAMILY.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",A&E MUNDO
+http://190.11.130.46/mnp/ae/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",CANAL DE LAS ESTRELLAS
+https://el4live1.boldmss.com/CDLE/CDLE.isml/CDLE.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",AXN
+http://190.11.130.46/mnp/axn/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",WARNER
+http://190.11.130.46/mnp/warner/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",CINECANAL
+http://190.11.130.46/mnp/cinecanal/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",SPACE
+http://190.11.130.46/mnp/space/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",TELEVISION PUBLICA
+https://el4live1.boldmss.com/TVP/TVP.isml/TVP.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO
+http://190.11.130.46/mnp/hbo/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO 2
+http://190.11.130.46/mnp/hbo2/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO PLUS
+http://190.11.130.46/mnp/hboplus/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO FAMILY
+http://190.11.130.46/mnp/hbofam/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",TN
+http://190.11.130.46/mnp/tn/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",CINE AR
+http://190.11.130.46/mnp/cinear/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",TNT
+http://190.11.130.46/mnp/tnt/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",HISTORY 2
+http://190.11.130.46/mnp/h2/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY
+http://190.11.130.46/mnp/discovery/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",HISTORY
+http://190.11.130.46/mnp/history/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",NICKELODEON
+http://190.11.130.46/mnp/nickelodeon/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",DISNEY CHANNEL
+http://190.11.130.46/mnp/disney/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",ENCUENTRO
+http://190.11.130.46/mnp/encuentro/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",C5N
+http://190.11.130.46/mnp/c5n/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",INFORMACION PERIODISTICA
+http://190.11.130.46/mnp/ip/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",EUROPA EUROPA
+http://190.11.130.46/mnp/europa/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",CARTOON NETWORK
+http://190.11.130.46/mnp/cartoon/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",DISNEY XD
+http://190.11.130.46/mnp/disneyxd/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",DISNEY JR
+http://190.11.130.46/mnp/disneyjr/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",NICK JR
+http://190.11.130.46/mnp/nickjr/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",BOOMERANG
+http://190.11.130.46/mnp/boomerang/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",BABY TV
+http://190.11.130.46/mnp/babytv/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",TOONCAST
+http://190.11.130.46/mnp/tooncast/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",CINEMAX
+http://190.11.130.46/mnp/cinemax/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",FXM
+http://190.11.130.46/mnp/fxm/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",FX
+http://190.11.130.46/mnp/fx/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",AMC
+http://190.11.130.46/mnp/amc/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",SONY
+http://190.11.130.46/mnp/sony/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",UNIVERSAL
+http://190.11.130.46/mnp/universal/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",TCM
+http://190.11.130.46/mnp/tcm/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",TBS
+http://190.11.130.46/mnp/tbs/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",SYFY
+http://190.11.130.46/mnp/syfy/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",PARAMOUNT
+http://190.11.130.46/mnp/paramount/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="MUSICALES",MTV
+http://190.11.130.46/mnp/mtv/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="MUSICALES",CM
+http://190.11.130.46/mnp/cm/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",ISAT
+http://190.11.130.46/mnp/isat/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",TELEMUNDO
+http://190.11.130.46/mnp/telemundo/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",CNN
+http://190.11.130.46/mnp/cnn/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",PAKA PAKA
+https://5fb24b460df87.streamlock.net:443/live-cont.ar/pakapaka/chunklist_w194035866.m3u8
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/channel/574369_980?mh=250" group-title="DEPORTES",DEPORTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
+#EXTINF:-1 tvg-logo="https://www.caracoltvcorporativo.com/sites/default/files/logo-footer_cor/logo_caracol2_0.png" group-title="INTERNACIONALES",CARACOL
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",TyC Sports
+https://el4live1.boldmss.com/TYC/TYC.isml/TYC.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",STAR CHANNEL
+https://el4live1.boldmss.com/FOX/FOX.isml/FOX.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",COMEDY CENTRAL
+http://190.11.130.46/mnp/comedy/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",TNT SERIES
+http://190.11.130.46/mnp/tntseries/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",TRU TV
+http://190.11.130.46/mnp/trutv/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",GOLF
+http://190.11.130.46/mnp/golf/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="MUSICALES",HTV
+http://190.11.130.46/mnp/htv/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO SIGNATURE
+http://190.11.130.46/mnp/hbosig/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO MUNDI
+http://190.11.130.46/mnp/hbomund/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO POP
+http://190.11.130.46/mnp/hbopop/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO XTREME
+http://190.11.130.46/mnp/hboxtr/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",GLITZ
+http://190.11.130.46/mnp/glitz/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",RURAL
+http://190.11.130.46/mnp/rural/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",NHK WORLD JAPAN
+http://190.11.130.46/mnp/nhk/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",PX SPORTS
+http://190.11.130.46/mnp/pktv/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",LIFE TIME
+http://190.11.130.46/mnp/lifetime/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",IVC
+http://190.11.130.46/mnp/ivc/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",MAS CHIC
+http://190.11.130.46/mnp/maschic/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",GARAGE TV
+http://190.11.130.46/mnp/garage/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",LN+
+https://el4live1.boldmss.com/LN+/LN+.isml/LN+.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",CINECANAL
+https://el4live1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY HGTV
+http://190.11.130.46/mnp/dsc_hgtv/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY TLC
+http://190.11.130.46/mnp/dsc_tlc/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",STAR CHANNEL
+http://190.11.130.46/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal TV SD
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/820.m3u8
-#EXTINF:-1 group-title="Entretenimiento" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal TV ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/822.m3u8
-#EXTINF:-1 group-title="Entretenimiento" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal TV ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/823.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Cinema
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/834.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Cinema ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/836.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Comedy
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/830.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Comedy ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/833.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Crime
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/826.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Crime ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/829.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Premiere
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/838.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Premiere ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/843.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Reality
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/846.m3u8
-#EXTINF:-1 group-title="Peliculas" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", Universal Reality ᵸᴰ
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/847.m3u8
+
