@@ -9,160 +9,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 #EXTINF:-1 group-title="PRUEBAS", LAS ESTRELLAS MX
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", STAR CHANNEL
-https://streamer1.nexgen.bz/STAR/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HBO
-http://router.cdn.rcs.net.ar/mnp/hbo/output.mpd
-#EXTINF:-1 group-title="PRUEBAS", HISTORY
-https://streamer1.nexgen.bz//HISTORY/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HBO MUNDI
-https://streamer1.nexgen.bz//HBO_MUNDI/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HBO POP
-https://streamer1.nexgen.bz//HBO_POP/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HBO PLUS
-https://streamer1.nexgen.bz//HBO_PLUS/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HBO 2
-https://streamer1.nexgen.bz//HBO2/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HBO SIGNATURE
-https://streamer1.nexgen.bz//HBO_SIG/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HBO XTREME
-https://streamer1.nexgen.bz//HBO_XTREME/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HBO FAMILY
-https://streamer1.nexgen.bz//HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", VH1
-https://streamer1.nexgen.bz/VH1/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", TNT
-https://streamer1.nexgen.bz/TNT/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HGTV
-https://streamer1.nexgen.bz/HGTV/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", FOOD
-https://streamer1.nexgen.bz/FOOD/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", MTV
-https://streamer1.nexgen.bz/MTV/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", USA
-https://streamer1.nexgen.bz/USA/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", TBS
-https://streamer1.nexgen.bz/TBS/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", BRAVO
-https://streamer1.nexgen.bz/BRAVO/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", BET
-https://streamer1.nexgen.bz/BET/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", NICKELODEON
-https://tx2.nexgen.bz:4000/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", Paramount Network 
-https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", LifeTime Movie Network 
-https://streamer1.nexgen.bz/LMN/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", FX  
-https://streamer1.nexgen.bz//FX/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", AMC  
-https://streamer1.nexgen.bz//AMC/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", ATN  
-https://streamer1.nexgen.bz//ATN/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", AXN  
-https://streamer1.nexgen.bz//AXN/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", BET  
-https://streamer1.nexgen.bz//BET/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", GET  
-https://streamer1.nexgen.bz//GET/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", GSN  
-https://streamer1.nexgen.bz//GSN/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HMM  
-https://streamer1.nexgen.bz//HMM/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HTV  
-https://streamer1.nexgen.bz//HTV/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", LMN  
-https://streamer1.nexgen.bz//LMN/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", MTV  
-https://streamer1.nexgen.bz//MTV/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", TBN - 
-https://streamer1.nexgen.bz//TBN/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", TBS - 
-https://streamer1.nexgen.bz//TBS/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", TCM - 
-https://streamer1.nexgen.bz//TCM/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", TLC - 
-https://streamer1.nexgen.bz//TLC/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", TNT -  
-https://streamer1.nexgen.bz//TNT/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", USA - 
-https://streamer1.nexgen.bz//USA/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HBO2 - 
-https://streamer1.nexgen.bz//HBO2/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", CINEMAX - 
-https://streamer1.nexgen.bz//CINEMAX/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", VH1 - 
-https://streamer1.nexgen.bz//VH1/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HGTV - 
-https://streamer1.nexgen.bz//HGTV/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", LIFETIME - 
-https://streamer1.nexgen.bz//LIFETIME/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", DISCOVERY - 
-https://streamer1.nexgen.bz//DISCOVERY/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HISTORY - 
-https://streamer1.nexgen.bz//HISTORY/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", FUSE - 
-https://streamer1.nexgen.bz//FUSE/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HALLMARK - 
-https://streamer1.nexgen.bz//HALLMARK/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", BRAVO 
-https://streamer1.nexgen.bz/BRAVO/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", TRUTV - 
-https://streamer1.nexgen.bz//TRUTV/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", FOOD - 
-https://streamer1.nexgen.bz//FOOD/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", SYFY - 
-https://streamer1.nexgen.bz//SYFY/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", ATN - 
-https://tx2.nexgen.bz:4000//ATN/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", AXN - 
-https://tx2.nexgen.bz:4000//AXN/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", BET - 
-https://tx2.nexgen.bz:4000//BET/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", CARTOON - 
-https://tx2.nexgen.bz:4000//CARTOON/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", COOKING - 
-https://tx2.nexgen.bz:4000//COOKING/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HGTV - 
-https://tx2.nexgen.bz:4000//HGTV/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", ESPN - 
-https://tx2.nexgen.bz:4000//ESPN/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", LIFETIME - 
-https://tx2.nexgen.bz:4000//LIFETIME/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", MTV - 
-https://tx2.nexgen.bz:4000//MTV/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", BYU - 
-https://tx2.nexgen.bz:4000//BYU/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", CBC - 
-https://tx2.nexgen.bz:4000//CBC/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", NICKELODEON - 
-https://tx2.nexgen.bz:4000//NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", OUTDOOR - 
-https://tx2.nexgen.bz:4000//OUTDOOR/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", VH1 - 
-https://tx2.nexgen.bz:4000//VH1/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", TNT - 
-https://tx2.nexgen.bz:4000//TNT/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", TBN - 
-https://tx2.nexgen.bz:4000//TBN/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", TBS - 
-https://tx2.nexgen.bz:4000//TBS/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", TCM - 
-https://tx2.nexgen.bz:4000//TCM/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", TNT - 
-https://tx2.nexgen.bz:4000//TNT/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", SYFY `but it may be USA`- 
-https://tx2.nexgen.bz:4000//SYFY/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", FOX - 
-https://tx2.nexgen.bz:4000//FOX/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", GET - 
-https://tx2.nexgen.bz:4000//GET/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", HTV - 
-https://tx2.nexgen.bz:4000//HTV/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS", USA
- https://streamer1.nexgen.bz//SYFY/index.m3u8
-USA - https://streamer1.nexgen.bz//USA/index.m3u8
-
 
 #EXTINF:-1 group-title="ARGENTINA", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
@@ -247,86 +93,21 @@ https://musicsrc.cvattv.com.ar/RM45
 https://musicsrc.cvattv.com.ar/RM22
 
 
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO +
-https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO HD
-http://181.174.228.134:8998/play/a00d/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO POP
-http://181.174.228.134:8998/play/a00f/index.m3u8
-#EXTINF:-1  group-title="HBO PREMIUM" ,HBO Xtreme
-http://181.174.228.134:8998/play/a01i/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO HD
-http://181.78.109.49:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO HD
-http://201.159.113.219:49000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO Plus HD
-http://201.159.113.219:49000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO XTREME
-http://201.159.113.219:49000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO2 HD
-http://201.159.113.219:49000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO Signature
-http://200.60.124.19:29000/play/a090/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO Family HD
-http://201.159.113.219:49000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO 2 HD
-http://181.78.82.6:46090/play/a01t/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO Family HD
-http://181.78.82.6:46090/play/a02i/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO HD
-http://181.78.82.6:46090/play/a01m/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO MUNDI
-http://181.78.82.6:46090/play/a02w/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO Plus
-http://181.78.82.6:46090/play/a03b/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO POP HD
-http://181.78.82.6:46090/play/a00j/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO XTREME HD
-http://181.78.82.6:46090/play/a02j/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO 2 HD
-http://181.78.82.6:46090/play/a01t/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO Family HD
-http://181.78.82.6:46090/play/a02i/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO HD
-http://181.78.82.6:46090/play/a01m/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO MUNDI
-http://181.78.82.6:46090/play/a02w/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO Plus
-http://181.78.82.6:46090/play/a03b/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO POP HD
-http://181.78.82.6:46090/play/a00j/index.m3u8
-#EXTINF:-1 group-title="HBO PREMIUM" ,HBO XTREME HD
-http://181.78.82.6:46090/play/a02j/index.m3u8
-#EXTINF:-1  group-title="HBO PREMIUM" ,HBO
-https://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1  group-title="HBO PREMIUM" ,HBO 2
-https://fl2.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1  group-title="HBO PREMIUM" ,HBO FAMILY
-https://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png"  group-title="HBO PREMIUM" ,HBO East
-http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png"  group-title="HBO PREMIUM" ,HBO2 East
-http://fl2.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534"  group-title="HBO PREMIUM" ,HBO Comedy East
-http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="HBO PREMIUM" ,HBO
 http://212.102.60.231/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113021639" group-title="HBO PREMIUM" ,HBO Zone
 http://212.102.60.231/HBO_ZONE/index.m3u8
 
 
-#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL CINEMA ESTE HD
-http://38.252.238.204:6102/play/a03g/index.m3u8
-#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL COMEDY HD
-http://38.252.238.204:6102/play/a032/index.m3u8
-#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL CRIME HD
-http://38.252.238.204:6102/play/a031/index.m3u8
-#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL PREMIERE HD
-http://38.252.238.204:6102/play/a02y/index.m3u8
-#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL PREMIERE O HD
-http://38.252.238.204:6102/play/a02z/index.m3u8
-#EXTINF:-1 group-title="UNIVERSA PREMIUM",UNIVERSAL REALITY HD
-http://38.252.238.204:6102/play/a030/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports-int.png" group-title="DEPORTES ARG",TyC Sports Internacional (op 2)
@@ -358,34 +139,8 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 
 
-#EXTINF:-1 group-title="TV CABLE",Discovery World HD
-http://190.60.38.114:1010/play/a06s/index.m3u8
 
-#EXTINF:-1 group-title="TV CABLE",Discovery Channel HD
-http://38.252.238.204:6102/play/a03b/index.m3u8
 
-#EXTINF:-1 group-title="PRUEBAS", MTV
-http://50.7.137.106:8080/MTV/index.m3u8?token=test
-#EXTINF:-1 group-title="PRUEBAS", CMTV HD
-http://50.7.137.106:8080/CMTV/index.m3u8?token=test
-#EXTINF:-1 group-title="PRUEBAS", TVI HD
-http://50.7.137.106:8080/TVI/index.m3u8?token=test
-#EXTINF:-1 group-title="PRUEBAS", VH1
-http://50.7.137.106:8080/VH1/index.m3u8?token=test
-#EXTINF:-1 group-title="PRUEBAS", FOX HD
-http://50.7.137.106:8080/FOX/index.m3u8?token=test
-#EXTINF:-1 group-title="PRUEBAS", DISCOVERY HD
-http://50.7.137.106:8080/DISCOVERY/index.m3u8?token=test
-#EXTINF:-1 group-title="PRUEBAS", AMC HD
-http://50.7.137.106:8080/AMC/index.m3u8?token=test
-#EXTINF:-1 group-title="PRUEBAS", SYFY HD
-http://50.7.137.106:8080/SYFY/index.m3u8?token=test
-#EXTINF:-1 group-title="PRUEBAS", HOLLYWOOD HD
-http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
-#EXTINF:-1 group-title="PRUEBAS", AXN HD
-http://50.7.137.106:8080/AXN/index.m3u8?token=test
-#EXTINF:-1 group-title="PRUEBAS", NAT_GEO_WILD HD
-http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
 
 
 
@@ -538,15 +293,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 #EXTINF:-1 group-title="Musica",Vevo Hip-Hop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="ARGENTINA" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", TELEFE
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/792.m3u8
-#EXTINF:-1 group-title="ARGENTINA" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36", EL OCHO TV
-https://live-b.cf.dmcdn.net/sec2(ZxsHtkbdGpTYBxPzEqoxDJ6u6IvD8W15OcpSwF95AuzyP86Bil2FzZfgeBinexogLFaIfgXC3iRFQiHs62JxtMQhuyz5VxNQSQCLuvJNuUGBuegyyRM_WUmpes_GsRpk)/dm/3/x8z8w7c/d/live-720.m3u8
 
-#EXTINF:-1 group-title="PACK FUTBOL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", TNT SPORTS |AR|
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/912.m3u8
-#EXTINF:-1 group-title="PACK FUTBOL" user-agent="Ha3ia3USGXTgFNnuUUQzGT0MWjqaR7jA1DiQP46crrTm5e34HZF2Ayu3MjVWwMWg0hbkTTbmz7PTJSrBKWva1TybW2WQSqAKgyg2PccShf5DAhBm4d3VBU1C0TLJMAipi4LDdESmi0Q2wpRzYUg", ESPN PREMIUM |AR|
-https://nffthex0kzt.xyz/rk/KYueQkWJhwrHVH/9Xu5JzN88Y/1171.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" group-title="ADULTOS", Miami TV
@@ -760,8 +507,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="MUSICALES",MUCH MUSIC
 https://router.cdn.rcs.net.ar/mnp/much_music_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",OCHO TV
-https://ythls.armelin.one/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 
 
 
@@ -1184,10 +929,7 @@ http://router.cdn.rcs.net.ar/mnp/ivc/output.mpd
 http://router.cdn.rcs.net.ar/mnp/maschic/output.mpd
 #EXTINF:-1 tvg-id="ext" group-title="DEPORTES",GARAGE TV
 http://router.cdn.rcs.net.ar/mnp/garage/output.mpd
-#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",LN+
-https://el4live1.boldmss.com/LN+/LN+.isml/LN+.mpd
-#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",CINECANAL
-https://el4live1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.mpd
+
 #EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY HGTV
 http://router.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd
 #EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY TLC
