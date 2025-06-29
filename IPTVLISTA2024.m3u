@@ -1,6 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="PRUEBAS", EL OCHO TV
-https://live-b.cf.dmcdn.net/sec2(7iJKK6LAb3nEBTYHUoSnivVkxgbLi3DLS7UK6D8XoCKj4YPpCq0yoWb_lCtZdqm1TLOfkvfgz3UuSz9LpehH84SOeZdEW2jp-4JmuENQOyQFXi5KKkSgQA6q5fSC2-3j)/dm/3/x8z8w7c/d/live-720.m3u8
+#EXTINF:-1 group-title="DEPORTES", TNT SPORTS CHILE
+https://laisa.crackstreamslivehd.com/tntsportschile/tracks-v1a1/mono.m3u8?ip=148.222.203.61&token=58ae6f70bbdeff25c2d7fba60873b4889be24064-f0-1751203047-1751149047
+#EXTINF:-1 group-title="DEPORTES", DSPORTS +
+https://laisa.crackstreamslivehd.com/dsportsplus/tracks-v1a1/mono.m3u8?ip=148.222.203.61&token=0d80d69a70843797f4cfbe31d30df3905feb0769-c9-1751202984-1751148984
+
+#EXTINF:-1 group-title="DEPORTES", DSPORTS 2
+https://manolo.crackstreamslivehd.com/dsports2/index.m3u8?token=db8b2d0c14b6ac767dcbec291fbcb797c3e1c7bb-d9-1751202929-1751148929&ip=148.222.203.61
+
+#EXTINF:-1 group-title="DEPORTES", DSPORTS
+https://miami.crackstreamslivehd.com/dsports/index.m3u8?token=01002a7512b5a6372ea727d500bb4f297f97b02e-32-1751202818-1751148818&ip=148.222.203.61
+
 #EXTINF:-1 group-title="PRUEBAS", LN+
 http://router.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTINF:-1 group-title="PRUEBAS", BEIN SPORTS
