@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="ARGENTINA", AMERICA TV
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/72f35e11-8263-4e19-8775-6fdc8aadc4eb:SCL2/variant/926d22b48e268d206b05dafb5866c540/bandwidth/646000.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", TNT SPORTS CHILE
 https://laisa.crackstreamslivehd.com/tntsportschile/tracks-v1a1/mono.m3u8?ip=148.222.203.61&token=58ae6f70bbdeff25c2d7fba60873b4889be24064-f0-1751203047-1751149047
 #EXTINF:-1 group-title="DEPORTES", DSPORTS +
