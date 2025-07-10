@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="ARGENTINA", TELEFE
+https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
+
 #EXTINF:-1 group-title="ARGENTINA", AMERICA TV
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/72f35e11-8263-4e19-8775-6fdc8aadc4eb:SCL2/variant/926d22b48e268d206b05dafb5866c540/bandwidth/646000.m3u8
 
