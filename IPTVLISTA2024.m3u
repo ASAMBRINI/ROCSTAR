@@ -793,8 +793,8 @@ https://el4live1.boldmss.com/FOX/FOX.isml/FOX.mpd
 https://el4live1.boldmss.com/DISCOVERY_HD/DISCOVERY_HD.isml/DISCOVERY_HD.mpd
 #EXTINF:-1 tvg-id="ext" group-title="CULTURA",HISTORY
 https://el4live1.boldmss.com/HISTORY/HISTORY.isml/HISTORY.mpd
-#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",FOX SPORTS PREMIUM
-https://el4live1.boldmss.com/FSP/FSP.isml/FSP.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",ESPN PREMIUM 1
+http://190.123.90.146:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",ESPN PREMIUM
 http://router.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",TNT SPORTS
