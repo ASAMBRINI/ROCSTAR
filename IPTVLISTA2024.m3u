@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ARGENTINA", AMERICA TV 2
+http://190.123.90.146:8000/play/a00l/index.m3u8
+
 #EXTINF:-1 group-title="ARGENTINA", TELEFE
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
 
