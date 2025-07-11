@@ -1,4 +1,193 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", 26 TV
+http://190.123.90.146:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", A&E
+http://190.123.90.146:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", A24
+http://190.123.90.146:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", AM SPORT
+http://190.123.90.146:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", AMC
+http://190.123.90.146:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", AMERICA HD
+http://190.123.90.146:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", ANIMAL PLANET
+http://190.123.90.146:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", AXN
+http://190.123.90.146:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", CANAL 10
+http://190.123.90.146:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", CANAL 2
+http://190.123.90.146:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", CANAL DE LAS ESTRELLAS
+http://190.123.90.146:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", CARTOON HD
+http://190.123.90.146:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", CINE AR
+http://190.123.90.146:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", CINECANAL HD
+http://190.123.90.146:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", CINEMAX
+http://190.123.90.146:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", CINEMAX HD
+http://190.123.90.146:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", CNN
+http://190.123.90.146:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", COMEDY
+http://190.123.90.146:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", CRONICA
+http://190.123.90.146:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", DEPORTV
+http://190.123.90.146:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", DISCOVERY HD
+http://190.123.90.146:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", DISCOVERY KID
+http://190.123.90.146:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", DISNEY HD
+http://190.123.90.146:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", DISNEY JR
+http://190.123.90.146:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", DW
+http://190.123.90.146:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", E! HD
+http://190.123.90.146:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", EL GOURMET
+http://190.123.90.146:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", EL NUEVE HD
+http://190.123.90.146:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", EL TRECE
+http://190.123.90.146:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", ENCUENTRO
+http://190.123.90.146:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", ESPN 2 HD
+http://190.123.90.146:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", ESPN 3
+http://190.123.90.146:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", ESPN 4
+http://190.123.90.146:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", ESPN HD
+http://190.123.90.146:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", ESPN PREMIUM
+http://190.123.90.146:8000/play/a00f/index.m3u8
+##EXTINF:-1 group-title="SEÑALES DE PRUEBA", EUROPA
+http://190.123.90.146:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", EWTN
+http://190.123.90.146:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", FILM & ART
+http://190.123.90.146:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", FOX SPORT 
+http://190.123.90.146:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", FOX SPORT 2
+http://190.123.90.146:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", FOX SPORT 3
+http://190.123.90.146:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", FX
+http://190.123.90.146:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", H&H
+http://190.123.90.146:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", HBO
+http://190.123.90.146:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", HBO +
+http://190.123.90.146:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", HBO 2
+http://190.123.90.146:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", HBO FAMILY
+http://190.123.90.146:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", HBO MUNDI
+http://190.123.90.146:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", HBO POP
+http://190.123.90.146:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", HBO XTREM
+http://190.123.90.146:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", HISTORY
+http://190.123.90.146:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", HTV
+http://190.123.90.146:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", LA NACION +
+http://190.123.90.146:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", LIFE TIME
+http://190.123.90.146:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", MAGAZIN
+http://190.123.90.146:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", METRO
+http://190.123.90.146:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", MTV
+http://190.123.90.146:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", MTV 00
+http://190.123.90.146:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", NICK
+http://190.123.90.146:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", NICK JR
+http://190.123.90.146:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", PAKAPAKA
+http://190.123.90.146:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", PARAMOUNT
+http://190.123.90.146:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", PASIONES
+http://190.123.90.146:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", QUIERO MUSICA
+http://190.123.90.146:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", RURAL
+http://190.123.90.146:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", SCIENCIA
+http://190.123.90.146:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", SONY HD
+http://190.123.90.146:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", SONY MOVIE
+http://190.123.90.146:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", SPACE HD
+http://190.123.90.146:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", STAR CHANEL
+http://190.123.90.146:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", STUDIO UNIVERSAL
+http://190.123.90.146:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TCM
+http://190.123.90.146:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TELEFE CORDOBA
+http://190.123.90.146:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TELEFE HD
+http://190.123.90.146:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TELEMUNDO
+http://190.123.90.146:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TELESUR
+http://190.123.90.146:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", THEATHER
+http://190.123.90.146:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TL NOVELAS
+http://190.123.90.146:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TN HD
+http://190.123.90.146:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TNT HD
+http://190.123.90.146:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TNT NOVELAS
+http://190.123.90.146:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TNT SERIE
+http://190.123.90.146:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TNT SPORT 
+http://190.123.90.146:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TURBO
+http://190.123.90.146:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TV PUBLICA HD
+http://190.123.90.146:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TYC SPORT
+http://190.123.90.146:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", UNIFE
+http://190.123.90.146:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", UNIVERSAL
+http://190.123.90.146:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", USA NETWORK
+http://190.123.90.146:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", VOLVER
+http://190.123.90.146:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", WARNER
+http://190.123.90.146:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", WORD
+http://190.123.90.146:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", canal 12
+http://190.123.90.146:8000/play/a039/index.m3u8
+
+
 #EXTINF:-1 group-title="ARGENTINA", TVP
 http://190.123.90.146:8000/play/a00q/index.m3u8
 
