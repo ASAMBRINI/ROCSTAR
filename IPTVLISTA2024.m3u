@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="ARGENTINA", TVP
+http://190.123.90.146:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL", TNT SPORTS 1
 http://190.123.90.146:8000/play/a00j/index.m3u8
