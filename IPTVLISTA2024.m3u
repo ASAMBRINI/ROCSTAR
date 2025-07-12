@@ -1,5 +1,230 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",A3Cine
+http://38.44.109.41:8003/play/a01k/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",AMC
+http://38.44.109.41:8003/play/a02a/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ATV
+http://38.44.109.41:8003/play/a00r/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ATV Sur
+http://38.44.109.41:8003/play/a02r/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",AXN
+http://38.44.109.41:8003/play/a031/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",AlJazeera
+http://38.44.109.41:8003/play/a00q/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",America TV GO
+http://38.44.109.41:8003/play/a01z/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Animal Planet
+http://38.44.109.41:8003/play/a010/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Azteca UNO
+http://38.44.109.41:8003/play/a033/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Bitme
+http://38.44.109.41:8003/play/a00f/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",CGTN
+http://38.44.109.41:8003/play/a021/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",CNN Español
+http://38.44.109.41:8003/play/a00d/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Canal 1
+http://38.44.109.41:8003/play/a020/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Canal 6 MX
+http://38.44.109.41:8003/play/a01j/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Caracol HD
+http://38.44.109.41:8003/play/a00x/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Cartoon Network
+http://38.44.109.41:8003/play/a03d/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Cartoonito
+http://38.44.109.41:8003/play/a03c/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Cinecanal
+http://38.44.109.41:8003/play/a03a/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Cinemax
+http://38.44.109.41:8003/play/a023/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",City TV
+http://38.44.109.41:8003/play/a02f/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Cocavision
+http://38.44.109.41:8003/play/a01i/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Cubavision
+http://38.44.109.41:8003/play/a028/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",DW
+http://38.44.109.41:8003/play/a01b/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Discovery
+http://38.44.109.41:8003/play/a01e/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Discovery H&H
+http://38.44.109.41:8003/play/a016/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Discovery ID
+http://38.44.109.41:8003/play/a02s/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Discovery Kids
+http://38.44.109.41:8003/play/a01t/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Disney Channel
+http://38.44.109.41:8003/play/a00e/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Disney Jr
+http://38.44.109.41:8003/play/a03b/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Distrito Comedia
+http://38.44.109.41:8003/play/a00j/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",E!
+http://38.44.109.41:8003/play/a030/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ECDF
+http://38.44.109.41:8003/play/a038/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",EJTV
+http://38.44.109.41:8003/play/a014/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ESPN 1
+http://38.44.109.41:8003/play/a02v/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ESPN 2
+http://38.44.109.41:8003/play/a00v/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ESPN 3
+http://38.44.109.41:8003/play/a00w/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ESPN 4 HD
+http://38.44.109.41:8003/play/a03m/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ESPN 5
+http://38.44.109.41:8003/play/a02t/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ESPN 6
+http://38.44.109.41:8003/play/a00u/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ESPN 7
+http://38.44.109.41:8003/play/a02u/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ESPN Premium
+http://38.44.109.41:8003/play/a02m/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ESPN2_MOD
+http://38.44.109.41:8003/play/a03u/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ESPN3_MOD
+http://38.44.109.41:8003/play/a03v/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ESPN5_MOD
+http://38.44.109.41:8003/play/a03w/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ESPNPremium_MOD
+http://38.44.109.41:8003/play/a03y/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ESPN_MOD
+http://38.44.109.41:8003/play/a03x/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",EWTN
+http://38.44.109.41:8003/play/a01u/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",EcuadorTV
+http://38.44.109.41:8003/play/a02b/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Ecuavisa
+http://38.44.109.41:8003/play/a019/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",El mundo del campo
+http://38.44.109.41:8003/play/a036/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Enlace
+http://38.44.109.41:8003/play/a00o/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Eurochannel
+http://38.44.109.41:8003/play/a02j/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",FX
+http://38.44.109.41:8003/play/a01g/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Food Network
+http://38.44.109.41:8003/play/a03f/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Gamavision
+http://38.44.109.41:8003/play/a02n/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Gol TV
+http://38.44.109.41:8003/play/a02h/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Golden
+http://38.44.109.41:8003/play/a001/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Golden Edge
+http://38.44.109.41:8003/play/a002/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Guatevision
+http://38.44.109.41:8003/play/a02p/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",HBO
+http://38.44.109.41:8003/play/a03k/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",HBO Family
+http://38.44.109.41:8003/play/a03j/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Hispan TV
+http://38.44.109.41:8003/play/a024/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",History Channel
+http://38.44.109.41:8003/play/a03l/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Hogar TV
+http://38.44.109.41:8003/play/a02k/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",La Tele
+http://38.44.109.41:8003/play/a01m/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Las Estrellas
+http://38.44.109.41:8003/play/a00g/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Love Nature
+http://38.44.109.41:8003/play/a02d/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",MTV
+http://38.44.109.41:8003/play/a03i/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Makrodigital
+http://38.44.109.41:8003/play/a02i/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Nat Geo
+http://38.44.109.41:8003/play/a006/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Nick
+http://38.44.109.41:8003/play/a01s/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Nick JR
+http://38.44.109.41:8003/play/a026/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Nuevo Tiempo
+http://38.44.109.41:8003/play/a01n/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Oromar
+http://38.44.109.41:8003/play/a01a/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Panamericana
+http://38.44.109.41:8003/play/a013/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Pasiones
+http://38.44.109.41:8003/play/a01f/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Plim Plim
+http://38.44.109.41:8003/play/a027/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",RCN HD
+http://38.44.109.41:8003/play/a00y/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",RT
+http://38.44.109.41:8003/play/a00a/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",RTS
+http://38.44.109.41:8003/play/a02e/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",RTU
+http://38.44.109.41:8003/play/a01p/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Realidades
+http://38.44.109.41:8003/play/a02g/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Rumba TV
+http://38.44.109.41:8003/play/a022/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Senal Colombia
+http://38.44.109.41:8003/play/a018/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Sony
+http://38.44.109.41:8003/play/a039/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Space
+http://38.44.109.41:8003/play/a01y/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Star Channel
+http://38.44.109.41:8003/play/a012/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Studio Universal
+http://38.44.109.41:8003/play/a03e/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",TC HD
+http://38.44.109.41:8003/play/a00z/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",TNT
+http://38.44.109.41:8003/play/a01v/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",TNT Series
+http://38.44.109.41:8003/play/a01x/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",TV Agro
+http://38.44.109.41:8003/play/a02c/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",TVC
+http://38.44.109.41:8003/play/a029/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Teleamazonas HD
+http://38.44.109.41:8003/play/a035/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Teleamazonas SD
+http://38.44.109.41:8003/play/a01d/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Teleantillas
+http://38.44.109.41:8003/play/a02y/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Telehit
+http://38.44.109.41:8003/play/a003/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Telemedellin
+http://38.44.109.41:8003/play/a02o/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Telemicro
+http://38.44.109.41:8003/play/a02q/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Telemundo
+http://38.44.109.41:8003/play/a017/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Telenostalgia
+http://38.44.109.41:8003/play/a01r/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Telenovelas
+http://38.44.109.41:8003/play/a00i/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Telesur
+http://38.44.109.41:8003/play/a01q/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Trece
+http://38.44.109.41:8003/play/a01w/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Turbo
+http://38.44.109.41:8003/play/a02w/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",TyC Sports
+http://38.44.109.41:8003/play/a02l/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Unicable
+http://38.44.109.41:8003/play/a00h/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",VTV
+http://38.44.109.41:8003/play/a01l/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",Win Sports
+http://38.44.109.41:8003/play/a03n/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",YasuniTV
+http://38.44.109.41:8003/play/a032/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",ZooMoo
+http://38.44.109.41:8003/play/a025/index.m3u8
+
+
+
 #EXTINF:-1 group-title="SEÑALES DE PRUEBA", TYC
 http://45.235.37.254/tyc/index.m3u8
 #EXTINF:-1 group-title="SEÑALES DE PRUEBA", Espn 
