@@ -298,19 +298,9 @@ https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.
 #EXTINF:-1 group-title="ARGENTINA", AMERICA TV
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/72f35e11-8263-4e19-8775-6fdc8aadc4eb:SCL2/variant/926d22b48e268d206b05dafb5866c540/bandwidth/646000.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", TNT SPORTS CHILE
-https://laisa.crackstreamslivehd.com/tntsportschile/tracks-v1a1/mono.m3u8?ip=148.222.203.61&token=58ae6f70bbdeff25c2d7fba60873b4889be24064-f0-1751203047-1751149047
-#EXTINF:-1 group-title="DEPORTES", DSPORTS +
-https://laisa.crackstreamslivehd.com/dsportsplus/tracks-v1a1/mono.m3u8?ip=148.222.203.61&token=0d80d69a70843797f4cfbe31d30df3905feb0769-c9-1751202984-1751148984
 
-#EXTINF:-1 group-title="DEPORTES", DSPORTS 2
-https://manolo.crackstreamslivehd.com/dsports2/index.m3u8?token=db8b2d0c14b6ac767dcbec291fbcb797c3e1c7bb-d9-1751202929-1751148929&ip=148.222.203.61
 
-#EXTINF:-1 group-title="DEPORTES", DSPORTS
-https://miami.crackstreamslivehd.com/dsports/index.m3u8?token=01002a7512b5a6372ea727d500bb4f297f97b02e-32-1751202818-1751148818&ip=148.222.203.61
 
-#EXTINF:-1 group-title="PRUEBAS", LN+
-http://router.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTINF:-1 group-title="PRUEBAS", BEIN SPORTS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 group-title="PRUEBAS", TELEMUNDO
@@ -324,11 +314,6 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",TYC SPORTS HD
 http://181.78.82.6:46090/play/a024/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",TyCSports HD
-http://181.114.57.246:4000/play/CMGEPVwDeTnyM7Rb/index.m3u8
-
-
 
 
 
@@ -571,10 +556,7 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 #EXTINF:-1 group-title="ARGENTINA",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
 
-#EXTINF:-1 group-title="PACK FUTBOL",Espn Premium
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
-#EXTINF:-1 group-title="PACK FUTBOL",Tnt Sports
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
 
 #EXTINF:-1 group-title="Musica",Vevo Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -780,8 +762,6 @@ http://live.redtraffic.xyz:80/pov.m3u8
 http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
 
 
-#EXTINF:-1 tvg-id="ext" group-title="NOVELAS",TL NOVELAS
-http://181.78.105.146:2000/play/a08d/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",SONY NOVELAS
@@ -790,8 +770,7 @@ https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",AMERICA TV
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",CANAL 12 MISIONES
 https://g4.vxral-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8
 
@@ -807,8 +786,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",DEPORTV
-https://router.cdn.rcs.net.ar/mnp/dxtv_hls/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ext" group-title="MUSICALES",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
@@ -832,16 +810,8 @@ https://router.cdn.rcs.net.ar/mnp/construiriptv_hls/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY SCI
 https://router.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY ID
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY HOME HEALTH
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",UNIVERSAL STUDIO
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="CULTURA",ANIMAL PLANET
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",DEPORTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w1536337763.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",CHACO TV
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist_w236376397.m3u8
@@ -853,8 +823,6 @@ https://router.cdn.rcs.net.ar/iptelva/ch8cba_hls/playlist.m3u8
 https://router.cdn.rcs.net.ar/iptelva/ch10cba_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",CANAL DOCE CORDOBA
 https://router.cdn.rcs.net.ar/iptelva/ch12cba_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",America TV
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",El Trece
 https://router.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
@@ -870,8 +838,7 @@ https://router.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/cnne_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY TURBO
 https://router.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",TV PUBLICA ARGENTINA
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="DEPORTES",ESPN
 https://router.cdn.rcs.net.ar/mnp/espn_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="DEPORTES",ESPN 2
@@ -886,10 +853,7 @@ https://router.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="DEPORTES",FOX SPORTS 3
 https://router.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",ESPN PREMIUM
-https://router.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",TNT SPORTS
-https://router.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",A&E MUNDO
 https://router.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",AXN
@@ -984,8 +948,7 @@ https://router.cdn.rcs.net.ar/anevia/live/localdisk/DeporTv/SA_HLS/DeporTv.m3u8
 http://201.218.137.232:4123/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",COMEDY CENTRAL
 https://router.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",TNT SERIES
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",TRU TV
 https://router.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="DEPORTES",GOLF
@@ -1020,12 +983,9 @@ https://router.cdn.rcs.net.ar/mnp/garage_hls/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY TLC
 https://router.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",STAR CHANNEL
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="DEPORTES",TYC SPORTS
 https://router.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",LN+
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",TELEFE CORDOBA
 http://router.cdn.rcs.net.ar/iptelva/ch8cba/output.mpd
@@ -1067,46 +1027,16 @@ http://router.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 http://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:-1 tvg-id="ext" group-title="DEPORTES",FOX SPORTS 3
 http://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
-#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",TYC SPORTS
-https://el4live1.boldmss.com/TYC/TYC.isml/TYC.mpd
-#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",DISCOVERY KIDS
-https://el4live1.boldmss.com/DKIDS/DKIDS.isml/DKIDS.mpd
-#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",DISNEY JUNIOR
-https://el4live1.boldmss.com/DJUNIOR/DJUNIOR.isml/DJUNIOR.mpd
-#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",CINEMAX
-https://el4live1.boldmss.com/CINEMAX/CINEMAX.isml/CINEMAX.mpd
-#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",TL NOVELAS
-https://el4live1.boldmss.com/TL_NOVELAS/TL_NOVELAS.isml/TL_NOVELAS.mpd
-#EXTINF:-1 tvg-id="ext" group-title="CULTURA",EL GOURMET
-https://el4live1.boldmss.com/GOURMET/GOURMET.isml/GOURMET.mpd
-#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",STAR CHANNEL
-https://el4live1.boldmss.com/FOX/FOX.isml/FOX.mpd
-#EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY CHANNEL
-https://el4live1.boldmss.com/DISCOVERY_HD/DISCOVERY_HD.isml/DISCOVERY_HD.mpd
-#EXTINF:-1 tvg-id="ext" group-title="CULTURA",HISTORY
-https://el4live1.boldmss.com/HISTORY/HISTORY.isml/HISTORY.mpd
+
+
 #EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",ESPN PREMIUM 1
 http://190.123.90.146:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",ESPN PREMIUM
-http://router.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
-#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",TNT SPORTS
-https://el4live1.boldmss.com/TNTS/TNTS.isml/TNTS.mpd
-#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",TNT SPORTS
-http://router.cdn.rcs.net.ar/mnp/tntsports/output.mpd
-#EXTINF:-1 tvg-id="ext" group-title="CULTURA",NAT GEO
-https://el4live1.boldmss.com/NGEO/NGEO.isml/NGEO.mpd
-#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO
-http://190.52.39.211/HBO/HBO.isml/HBO.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO 2
-http://190.52.39.211/HBO_2/HBO_2.isml/HBO_2.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO PLUS
-http://190.52.39.211/HBO+/HBO+.isml/HBO+.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO FAMILY
-http://190.52.39.211/HBO_FAMILY/HBO_FAMILY.isml/HBO_FAMILY.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",A&E MUNDO
 http://router.cdn.rcs.net.ar/mnp/ae/output.mpd
-#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",CANAL DE LAS ESTRELLAS
-https://el4live1.boldmss.com/CDLE/CDLE.isml/CDLE.mpd
+
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",AXN
 http://router.cdn.rcs.net.ar/mnp/axn/output.mpd
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",WARNER
@@ -1193,16 +1123,8 @@ http://router.cdn.rcs.net.ar/mnp/isat/output.mpd
 http://router.cdn.rcs.net.ar/mnp/telemundo/output.mpd
 #EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",CNN
 http://router.cdn.rcs.net.ar/mnp/cnn/output.mpd
-#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",PAKA PAKA
-https://5fb24b460df87.streamlock.net:443/live-cont.ar/pakapaka/chunklist_w194035866.m3u8
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/channel/574369_980?mh=250" group-title="DEPORTES",DEPORTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
-#EXTINF:-1 tvg-logo="https://www.caracoltvcorporativo.com/sites/default/files/logo-footer_cor/logo_caracol2_0.png" group-title="INTERNACIONALES",CARACOL
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",TyC Sports
-https://el4live1.boldmss.com/TYC/TYC.isml/TYC.mpd
-#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",STAR CHANNEL
-https://el4live1.boldmss.com/FOX/FOX.isml/FOX.mpd
+
+
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",COMEDY CENTRAL
 http://router.cdn.rcs.net.ar/mnp/comedy/output.mpd
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",TNT SERIES
