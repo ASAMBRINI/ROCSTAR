@@ -1,5 +1,100 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TYC
+http://45.235.37.254/tyc/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", Espn 
+http://45.235.37.254/espnhd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", Espn 2
+http://45.235.37.254/espn2hd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", Espn 3
+http://45.235.37.254/espn3hd/index.m3u8
+
+
+
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", Espn 6
+http://45.235.37.254/foxsports3hd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", Espn 7
+http://45.235.37.254/foxsports2hd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", Espn Premium
+http://45.235.37.254/espnpremiumhd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TNT SPORTS CHILE
+http://45.235.37.254/tntsportshd/index.m3u8
+
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", AE
+http://45.235.37.254/aehd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", AMC
+http://45.235.37.254/amchd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", AXN
+http://45.235.37.254/axnhd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", DHE
+http://45.235.37.254/dhehd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", FX
+http://45.235.37.254/fxhd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", STAR CHANNEL
+http://45.235.37.254/starhd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", SPACE
+http://45.235.37.254/spacehd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", GOLDEN
+http://45.235.37.254/goldenhd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", GOLDEN PLUS
+http://45.235.37.254/goldenplus/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", GOLDEN EDGE
+http://45.235.37.254/goldenedge/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TNT
+http://45.235.37.254/tnthd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TNT SERIES
+http://45.235.37.254/tntserieshd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", CINEMAX
+http://45.235.37.254/cinemaxhd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", WARNER
+http://45.235.37.254/warnerhd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", UNIVERSAL CHANNEL
+http://45.235.37.254/universalhd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", STUDIO UNIVERSAL
+http://45.235.37.254/studiouniversalhd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", SONY
+http://45.235.37.254/sonyhd/index.m3u8
+
+
+
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TOONCAST
+http://45.235.37.254/tooncast/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", baby tv
+http://45.235.37.254/babytv/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", DISCOVERY KIDS
+http://45.235.37.254/discoverykidshd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", DISNEY CHANNEL
+http://45.235.37.254/disneyhd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", NICK
+http://45.235.37.254/nickhd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", CARTOONITO
+http://45.235.37.254/cartoonito/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", CARTOON NETWORK
+http://45.235.37.254/cartoonnetworkhd/index.m3u8
+
+
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", HISTORY
+http://45.235.37.254/historyhd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", HISTORY 2
+http://45.235.37.254/history2hd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", DISCOVERY
+http://45.235.37.254/discoveryhd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", NATGEO
+http://45.235.37.254/natgeohd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", ANIMAL PLANET
+http://45.235.37.254/animalplanethd/index.m3u8
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", ID
+http://45.235.37.254/idhd/index.m3u8
+
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", ESPN PREMIUM 3
+http://45.235.37.254/espnpremiumhd/index.m3u8
+
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", ESPN PREMIUM 2
+http://181.78.82.6:46090/play/a00q/index.m3u8
+
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", TNT SPORTS 2
+http://201.217.246.166:8000/play/a06z/index.m3u8
+
 #EXTINF:-1 group-title="SEÑALES DE PRUEBA", 26 TV
 http://190.123.90.146:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="SEÑALES DE PRUEBA", A&E
