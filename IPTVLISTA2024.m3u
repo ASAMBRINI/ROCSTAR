@@ -1,5 +1,128 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g9GwW5L/universal-cinema.png" group-title="SEÑALES DE PRUEBA",UNIVERSAL CINEMA HD
+http://45.71.254.1:8000/play/a0ei
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rb0jKzQ/universal-comedy.png" group-title="SEÑALES DE PRUEBA",UNIVERSAL COMEDY HD
+http://45.71.254.1:8000/play/a0e4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtZyHtV4/Universal-Crime.png" group-title="SEÑALES DE PRUEBA",UNIVERSAL CRIME HD
+http://45.71.254.1:8000/play/a0e3
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9bd6CL/universal-premiere.png" group-title="SEÑALES DE PRUEBA",UNIVERSAL PREMIERE HD
+http://45.71.254.1:8000/play/a0e0
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKsKQZyk/Universal-Reality.png" group-title="SEÑALES DE PRUEBA",,UNIVERSAL REALITY HD
+http://45.71.254.1:8000/play/a0e2
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tD175nd/HBO.png" group-title="SEÑALES DE PRUEBA",HBO
+http://181.188.234.21:8000/play/a04e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tD175nd/HBO.png" group-title="SEÑALES DE PRUEBA",HBO HD
+http://200.37.199.140:8000/play/a07h
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LvdyRMR/HBO-2.png" group-title="SEÑALES DE PRUEBA",HBO 2 HD
+http://45.71.254.1:8000/play/a0p2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JjdMF9w/HBO-Family.png" group-title="SEÑALES DE PRUEBA",HBO FAMILY HD
+http://45.71.254.1:8000/play/a0sd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JjdMF9w/HBO-Family.png" group-title="SEÑALES DE PRUEBA",HBO FAMILY
+http://200.37.199.140:8000/play/a09i
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JjdMF9w/HBO-Family.png" group-title="SEÑALES DE PRUEBA",HBO FAMILY
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjZW5MQN/HBO-Mundi.png" group-title="SEÑALES DE PRUEBA",HBO MUNDI
+http://200.37.199.140:8000/play/a08t
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LZyyxxP/HBO-Pop.png" group-title="SEÑALES DE PRUEBA",HBO POP HD
+http://200.37.199.140:8000/play/a095
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cLCQF5v/hboplus.png" group-title="SEÑALES DE PRUEBA",HBO PLUS HD
+http://45.71.254.1:8000/play/a0p1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8kY7VJ3/HBO-Signature.png" group-title="SEÑALES DE PRUEBA",HBO SIGNATURE
+http://45.71.254.1:8000/play/a0pk
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MgSZqpR/hboxtreme.png" group-title="SEÑALES DE PRUEBA",HBO XTREME
+http://200.37.199.140:8000/play/a09w
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b6HK2MS/Golden-Blanco.png" group-title="SEÑALES DE PRUEBA",GOLDEN
+http://45.71.254.1:8000/play/a0o7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/808387g/goldenedge.png" group-title="SEÑALES DE PRUEBA",GOLDEN EDGE
+http://45.71.254.1:8000/play/a0ow
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7N64jkbY/Golden-Plus.png" group-title="SEÑALES DE PRUEBA",GOLDEN PLUS HD
+http://45.169.163.106:8000/play/a019
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ndn1fnX7/Golden-Premier.png" group-title="SEÑALES DE PRUEBA",GOLDEN PREMIER
+http://45.71.254.1:8000/play/a0a6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wDQXzKN/Golden-Premier-2.png" group-title="SEÑALES DE PRUEBA",GOLDEN PREMIER 2 HD
+http://45.71.254.1:8000/play/a0a7
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s10V0y/dreamworks.png" group-title="SEÑALES DE PRUEBA",DREAMWORKS
+http://45.176.71.20:1689/play/a0c5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4s10V0y/dreamworks.png" group-title="SEÑALES DE PRUEBA",DREAMWORKS HD
+http://181.78.14.26:8000/play/a047
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="SEÑALES DE PRUEBA",DIRECTV SPORTS
+http://179.51.136.19:8000/play/DSPORTS1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="SEÑALES DE PRUEBA",DIRECTV SPORTS
+http://200.60.124.19:29000/play/a081
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="SEÑALES DE PRUEBA",DIRECTV SPORTS
+http://200.121.48.242:28888/play/a03c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="SEÑALES DE PRUEBA",DIRECTV SPORTS
+http://205.235.6.29:8000/play/a0nq/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="SEÑALES DE PRUEBA",DIRECTV SPORTS COL
+http://181.78.106.127:9000/play/ca026
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="SEÑALES DE PRUEBA",DIRECTV SPORTS 2
+http://45.5.117.57:8200/play/a050
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="SEÑALES DE PRUEBA",DIRECTV SPORTS 2
+http://179.51.136.19:8000/play/a112
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="SEÑALES DE PRUEBA",DIRECTV SPORTS 2
+http://205.235.6.29:8000/play/a0nr/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="SEÑALES DE PRUEBA",DIRECTV SPORTS
+http://179.51.136.19:8000/play/a113
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fn79TrN/Cine-Familiar.png" group-title="SEÑALES DE PRUEBA",CINE FAMILIAR HD
+http://45.169.163.106:8000/play/a00b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fn79TrN/Cine-Familiar.png" group-title="SEÑALES DE PRUEBA",CINE FAMILIAR HD
+http://160.20.165.246:8000/play/a02a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qj2CPw1/Cine-Hispano.png" group-title="SEÑALES DE PRUEBA",CINE HISPANO HD
+http://45.176.193.222:2405/play/a062
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qj2CPw1/Cine-Hispano.png" group-title="SEÑALES DE PRUEBA",CINE HISPANO HD
+http://160.20.165.246:8000/play/a029
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0g3C8xH/Cine-Mexicano.png" group-title="SEÑALES DE PRUEBA",CINE MEXICANO
+http://45.228.234.173:9999/play/a03j
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0g3C8xH/Cine-Mexicano.png" group-title="SEÑALES DE PRUEBA",CINE MEXICANO
+http://160.20.165.246:8000/play/a01p
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLh9Lsv/Cinelatino.png" group-title="SEÑALES DE PRUEBA",CINE LATINO
+http://190.33.34.182:8000/play/a0a1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLh9Lsv/Cinelatino.png" group-title="SEÑALES DE PRUEBA",CINE LATINO
+http://190.33.34.182:8000/play/a0fb
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXG8dwW/Cine-Premium.png" group-title="SEÑALES DE PRUEBA",CINE PREMIUM HD
+http://160.20.165.246:8000/play/a028
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tXG8dwW/Cine-Premium.png" group-title="SEÑALES DE PRUEBA",CINE PREMIUM HD
+http://190.61.117.35:8000/play/a042
+
+
+#EXTINF:-1 group-title="SEÑALES DE PRUEBA", BANDAMAX
+http://200.92.227.238:8000/play/a0v1
+
+#EXTINF:-1 group-title="ADULTOS", PLAYBOY
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 #EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",A3Cine
 http://38.44.109.41:8003/play/a01k/index.m3u8
 #EXTINF:-1 group-title="SEÑALES DE PRUEBA 2",AMC
