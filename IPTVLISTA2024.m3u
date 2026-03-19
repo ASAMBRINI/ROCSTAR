@@ -847,5 +847,225 @@ http://router.cdn.rcs.net.ar/mnp/garage/output.mpd
 http://router.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd
 #EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY TLC
 http://router.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",TELEFE CORDOBA
+https://access.cdn.rcs.net.ar/iptelva/ch8cba/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",CANAL 10 CORDOBA
+https://access.cdn.rcs.net.ar/iptelva/ch10cba/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",CANAL DOCE CORDOBA
+https://access.cdn.rcs.net.ar/iptelva/ch12cba/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",America TV
+https://access.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",Telefe
+https://access.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",El Trece
+https://access.cdn.rcs.net.ar/mnp/el13/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",El Nueve
+https://access.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",AMERICA 24       
+https://access.cdn.rcs.net.ar/mnp/a24/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",CRONICA HD
+https://access.cdn.rcs.net.ar/mnp/cronica/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",CANAL 26
+https://access.cdn.rcs.net.ar/mnp/canal26/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",CNN EN ESPAÑOL
+https://access.cdn.rcs.net.ar/mnp/cnne/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY TURBO
+https://access.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",TV PUBLICA ARGENTINA
+https://access.cdn.rcs.net.ar/mnp/tvp/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",ESPN
+https://access.cdn.rcs.net.ar/mnp/espn/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",ESPN 2
+https://access.cdn.rcs.net.ar/mnp/espn2/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",ESPN 3
+https://access.cdn.rcs.net.ar/mnp/espn3/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",ESPN EXTRA
+https://access.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",FOX SPORTS
+https://access.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",FOX SPORTS 2
+https://access.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",FOX SPORTS 3
+https://access.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",TYC SPORTS
+https://el4live1.boldmss.com/TYC/TYC.isml/TYC.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",DISCOVERY KIDS
+https://el4live1.boldmss.com/DKIDS/DKIDS.isml/DKIDS.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",DISNEY JUNIOR
+https://el4live1.boldmss.com/DJUNIOR/DJUNIOR.isml/DJUNIOR.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",CINEMAX
+https://el4live1.boldmss.com/CINEMAX/CINEMAX.isml/CINEMAX.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",TL NOVELAS
+https://el4live1.boldmss.com/TL_NOVELAS/TL_NOVELAS.isml/TL_NOVELAS.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",EL GOURMET
+https://el4live1.boldmss.com/GOURMET/GOURMET.isml/GOURMET.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",STAR CHANNEL
+https://el4live1.boldmss.com/FOX/FOX.isml/FOX.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY CHANNEL
+https://el4live1.boldmss.com/DISCOVERY_HD/DISCOVERY_HD.isml/DISCOVERY_HD.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",HISTORY
+https://el4live1.boldmss.com/HISTORY/HISTORY.isml/HISTORY.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",FOX SPORTS PREMIUM
+https://el4live1.boldmss.com/FSP/FSP.isml/FSP.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",ESPN PREMIUM
+https://access.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",TNT SPORTS
+https://el4live1.boldmss.com/TNTS/TNTS.isml/TNTS.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK FUTBOL",TNT SPORTS
+https://access.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",NAT GEO
+https://el4live1.boldmss.com/NGEO/NGEO.isml/NGEO.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO
+http://190.52.39.211/HBO/HBO.isml/HBO.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO 2
+http://190.52.39.211/HBO_2/HBO_2.isml/HBO_2.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO PLUS
+http://190.52.39.211/HBO+/HBO+.isml/HBO+.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO FAMILY
+http://190.52.39.211/HBO_FAMILY/HBO_FAMILY.isml/HBO_FAMILY.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",A&E MUNDO
+https://access.cdn.rcs.net.ar/mnp/ae/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",CANAL DE LAS ESTRELLAS
+https://el4live1.boldmss.com/CDLE/CDLE.isml/CDLE.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",AXN
+https://access.cdn.rcs.net.ar/mnp/axn/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",WARNER
+https://access.cdn.rcs.net.ar/mnp/warner/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",CINECANAL
+https://access.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",SPACE
+https://access.cdn.rcs.net.ar/mnp/space/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",TELEVISION PUBLICA
+https://el4live1.boldmss.com/TVP/TVP.isml/TVP.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO
+https://access.cdn.rcs.net.ar/mnp/hbo/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO 2
+https://access.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO PLUS
+https://access.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO FAMILY
+https://access.cdn.rcs.net.ar/mnp/hbofam/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",TN
+https://access.cdn.rcs.net.ar/mnp/tn/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",CINE AR
+https://access.cdn.rcs.net.ar/mnp/cinear/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",TNT
+https://access.cdn.rcs.net.ar/mnp/tnt/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",HISTORY 2
+https://access.cdn.rcs.net.ar/mnp/h2/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY
+https://access.cdn.rcs.net.ar/mnp/discovery/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",HISTORY
+https://access.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",NICKELODEON
+https://access.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",DISNEY CHANNEL
+https://access.cdn.rcs.net.ar/mnp/disney/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",ENCUENTRO
+https://access.cdn.rcs.net.ar/mnp/encuentro/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",C5N
+https://access.cdn.rcs.net.ar/mnp/c5n/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",INFORMACION PERIODISTICA
+https://access.cdn.rcs.net.ar/mnp/ip/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",EUROPA EUROPA
+https://access.cdn.rcs.net.ar/mnp/europa/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",CARTOON NETWORK
+https://access.cdn.rcs.net.ar/mnp/cartoon/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",DISNEY XD
+https://access.cdn.rcs.net.ar/mnp/disneyxd/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",DISNEY JR
+https://access.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",NICK JR
+https://access.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",BOOMERANG
+https://access.cdn.rcs.net.ar/mnp/boomerang/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",BABY TV
+https://access.cdn.rcs.net.ar/mnp/babytv/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",TOONCAST
+https://access.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",CINEMAX
+https://access.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",FXM
+https://access.cdn.rcs.net.ar/mnp/fxm/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",FX
+https://access.cdn.rcs.net.ar/mnp/fx/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",AMC
+https://access.cdn.rcs.net.ar/mnp/amc/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",SONY
+https://access.cdn.rcs.net.ar/mnp/sony/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",UNIVERSAL
+https://access.cdn.rcs.net.ar/mnp/universal/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",TCM
+https://access.cdn.rcs.net.ar/mnp/tcm/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",TBS
+https://access.cdn.rcs.net.ar/mnp/tbs/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",SYFY
+https://access.cdn.rcs.net.ar/mnp/syfy/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",PARAMOUNT
+https://access.cdn.rcs.net.ar/mnp/paramount/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="MUSICALES",MTV
+https://access.cdn.rcs.net.ar/mnp/mtv/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="MUSICALES",CM
+https://access.cdn.rcs.net.ar/mnp/cm/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",ISAT
+https://access.cdn.rcs.net.ar/mnp/isat/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",TELEMUNDO
+https://access.cdn.rcs.net.ar/mnp/telemundo/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",CNN
+https://access.cdn.rcs.net.ar/mnp/cnn/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INFANTILES",PAKA PAKA
+https://5fb24b460df87.streamlock.net:443/live-cont.ar/pakapaka/chunklist_w194035866.m3u8
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/channel/574369_980?mh=250" group-title="DEPORTES",DEPORTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
+#EXTINF:-1 tvg-logo="https://www.caracoltvcorporativo.com/sites/default/files/logo-footer_cor/logo_caracol2_0.png" group-title="INTERNACIONALES",CARACOL
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",TyC Sports
+https://el4live1.boldmss.com/TYC/TYC.isml/TYC.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",STAR CHANNEL
+https://el4live1.boldmss.com/FOX/FOX.isml/FOX.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",COMEDY CENTRAL
+https://access.cdn.rcs.net.ar/mnp/comedy/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",TNT SERIES
+https://access.cdn.rcs.net.ar/mnp/tntseries/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",TRU TV
+https://access.cdn.rcs.net.ar/mnp/trutv/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",GOLF
+https://access.cdn.rcs.net.ar/mnp/golf/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="MUSICALES",HTV
+https://access.cdn.rcs.net.ar/mnp/htv/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO SIGNATURE
+https://access.cdn.rcs.net.ar/mnp/hbosig/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO MUNDI
+https://access.cdn.rcs.net.ar/mnp/hbomund/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO POP
+https://access.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="PACK HBO",HBO XTREME
+https://access.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",GLITZ
+https://access.cdn.rcs.net.ar/mnp/glitz/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",RURAL
+https://access.cdn.rcs.net.ar/mnp/rural/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",NHK WORLD JAPAN
+https://access.cdn.rcs.net.ar/mnp/nhk/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",PX SPORTS
+https://access.cdn.rcs.net.ar/mnp/pktv/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",LIFE TIME
+https://access.cdn.rcs.net.ar/mnp/lifetime/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",IVC
+https://access.cdn.rcs.net.ar/mnp/ivc/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="INTERNACIONALES",MAS CHIC
+https://access.cdn.rcs.net.ar/mnp/maschic/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES",GARAGE TV
+https://access.cdn.rcs.net.ar/mnp/garage/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="ARGENTINA",LN+
+https://el4live1.boldmss.com/LN+/LN+.isml/LN+.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",CINECANAL
+https://el4live1.boldmss.com/CINECANAL/CINECANAL.isml/CINECANAL.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY HGTV
+https://access.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CULTURA",DISCOVERY TLC
+https://access.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
+#EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",STAR CHANNEL
+https://access.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 
 
