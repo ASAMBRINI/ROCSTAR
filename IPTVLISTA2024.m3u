@@ -242,18 +242,9 @@ http://38.44.109.41:8003/play/a025/index.m3u8
 #EXTINF:-1 grttps://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8oup-title="PRUEBAS", LAS ESTRELLAS MX
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA", TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-
 
 #EXTINF:-1 group-title="DEPORTES",TYC SPORTS HD
 http://181.78.82.6:46090/play/a024/index.m3u8
-
-
-
-#EXTINF:-1  tvg-id="beINSports.us" tvg-name="beIN Sports HD" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75"  group-title="DEPORTES",beIN Sports
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png"  group-title="DEPORTES", GARAGE TV
@@ -318,34 +309,6 @@ https://musicsrc.cvattv.com.ar/RM28
 https://musicsrc.cvattv.com.ar/RM45
 #EXTINF:-1 radio="true" tvg-id="RM22" tvg-name="New Wave"  group-title="MÚSICA",New Wave
 https://musicsrc.cvattv.com.ar/RM22
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="HBO PREMIUM" ,HBO
-http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113021639" group-title="HBO PREMIUM" ,HBO Zone
-http://212.102.60.231/HBO_ZONE/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="24/7", Run Time Latino
@@ -428,12 +391,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1 group-title="Mexico", Imagen TV+ (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-
-
-#EXTINF:-1 group-title="ARGENTINA",Telefe
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
-
-
 
 #EXTINF:-1 group-title="Musica",Vevo Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1108,365 +1065,365 @@ http://181.78.12.119:16123/play/ch17/index.m3u8
 http://181.78.12.119:16123/play/ch18/index.m3u8
 #EXTINF:-1  group-title="SD CHANNEL",
 http://181.78.12.119:16123/play/ch19/index.m3u8
-#EXTINF:-1  group-title="SD ch2ANNEL",
+#EXTINF:-1  group-title="SD CHANNEL",
 http://181.78.12.119:16123/play/ch20/index.m3u8
-#EXTINF:-1  group-title="SD ch2ANNEL",
+#EXTINF:-1  group-title="SD CHANNEL",
 http://181.78.12.119:16123/play/ch21/index.m3u8
-#EXTINF:-1  group-title="SD ch2ANNEL",
+#EXTINF:-1  group-title="SD CHANNEL",
 http://181.78.12.119:16123/play/ch22/index.m3u8
-#EXTINF:-1  group-title="SD ch2ANNEL",
+#EXTINF:-1  group-title="SD CHANNEL",
 http://181.78.12.119:16123/play/ch23/index.m3u8
-#EXTINF:-1  group-title="SD ch2ANNEL",
+#EXTINF:-1  group-title="SD CHANNEL",
 http://181.78.12.119:16123/play/ch24/index.m3u8
-#EXTINF:-1  group-title="SD ch2ANNEL",
+#EXTINF:-1  group-title="SD CHANNEL",
 http://181.78.12.119:16123/play/ch25/index.m3u8
-#EXTINF:-1  group-title="SD ch2ANNEL",
+#EXTINF:-1  group-title="SD CHANNEL",
 http://181.78.12.119:16123/play/ch26/index.m3u8
-#EXTINF:-1  group-title="SD ch2ANNEL",
+#EXTINF:-1  group-title="SD CHANNEL",
 http://181.78.12.119:16123/play/ch27/index.m3u8
-#EXTINF:-1  group-title="SD ch2ANNEL",
+#EXTINF:-1  group-title="SD CHANNEL",
 http://181.78.12.119:16123/play/ch28/index.m3u8
-#EXTINF:-1  group-title="SD ch2ANNEL",
+#EXTINF:-1  group-title="SD CHANNEL",
 http://181.78.12.119:16123/play/ch29/index.m3u8
-#EXTINF:-1  group-title="SD ch2ANNEL",
+#EXTINF:-1  group-title="SD CHANNEL",
 http://181.78.12.119:16123/play/ch30/index.m3u8
-#EXTINF:-1  group-title="SD ch3ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch31/index.m3u8
-#EXTINF:-1  group-title="SD ch3ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch32/index.m3u8
-#EXTINF:-1  group-title="SD ch3ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch33/index.m3u8
-#EXTINF:-1  group-title="SD ch3ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch34/index.m3u8
-#EXTINF:-1  group-title="SD ch3ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch35/index.m3u8
-#EXTINF:-1  group-title="SD ch3ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch36/index.m3u8
-#EXTINF:-1  group-title="SD ch3ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch37/index.m3u8
-#EXTINF:-1  group-title="SD ch3ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch38/index.m3u8
-#EXTINF:-1  group-title="SD ch3ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch39/index.m3u8
-#EXTINF:-1  group-title="SD ch4ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch40/index.m3u8
-#EXTINF:-1  group-title="SD ch4ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch41/index.m3u8
-#EXTINF:-1  group-title="SD ch4ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch42/index.m3u8
-#EXTINF:-1  group-title="SD ch4ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch43/index.m3u8
-#EXTINF:-1  group-title="SD ch4ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch44/index.m3u8
-#EXTINF:-1  group-title="SD ch4ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch45/index.m3u8
-#EXTINF:-1  group-title="SD ch4ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch46/index.m3u8
-#EXTINF:-1  group-title="SD ch4ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch47/index.m3u8
-#EXTINF:-1  group-title="SD ch4ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch48/index.m3u8
-#EXTINF:-1  group-title="SD ch4ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch49/index.m3u8
-#EXTINF:-1  group-title="SD ch5ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch50/index.m3u8
-#EXTINF:-1  group-title="SD ch5ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch51/index.m3u8
-#EXTINF:-1  group-title="SD ch5ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch52/index.m3u8
-#EXTINF:-1  group-title="SD ch5ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch53/index.m3u8
-#EXTINF:-1  group-title="SD ch5ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch54/index.m3u8
-#EXTINF:-1  group-title="SD ch5ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch55/index.m3u8
-#EXTINF:-1  group-title="SD ch5ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch56/index.m3u8
-#EXTINF:-1  group-title="SD ch5ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch57/index.m3u8
-#EXTINF:-1  group-title="SD ch5ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch58/index.m3u8
-#EXTINF:-1  group-title="SD ch5ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch59/index.m3u8
-#EXTINF:-1  group-title="SD ch6ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch60/index.m3u8
-#EXTINF:-1  group-title="SD ch6ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch61/index.m3u8
-#EXTINF:-1  group-title="SD ch6ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch62/index.m3u8
-#EXTINF:-1  group-title="SD ch6ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch63/index.m3u8
-#EXTINF:-1  group-title="SD ch6ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch64/index.m3u8
-#EXTINF:-1  group-title="SD ch6ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch65/index.m3u8
-#EXTINF:-1  group-title="SD ch6ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch66/index.m3u8
-#EXTINF:-1  group-title="SD ch6ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch67/index.m3u8
-#EXTINF:-1  group-title="SD ch6ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch68/index.m3u8
-#EXTINF:-1  group-title="SD ch6ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch69/index.m3u8
-#EXTINF:-1  group-title="SD ch7ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch70/index.m3u8
-#EXTINF:-1  group-title="SD ch7ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch71/index.m3u8
-#EXTINF:-1  group-title="SD ch7ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch72/index.m3u8
-#EXTINF:-1  group-title="SD ch7ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch73/index.m3u8
-#EXTINF:-1  group-title="SD ch7ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch74/index.m3u8
-#EXTINF:-1  group-title="SD ch7ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch75/index.m3u8
-#EXTINF:-1  group-title="SD ch7ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch76/index.m3u8
-#EXTINF:-1  group-title="SD ch7ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch77/index.m3u8
-#EXTINF:-1  group-title="SD ch7ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch78/index.m3u8
-#EXTINF:-1  group-title="SD ch7ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch79/index.m3u8
-#EXTINF:-1  group-title="SD ch8ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch80/index.m3u8
-#EXTINF:-1  group-title="SD ch8ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch81/index.m3u8
-#EXTINF:-1  group-title="SD ch8ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch82/index.m3u8
-#EXTINF:-1  group-title="SD ch8ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch83/index.m3u8
-#EXTINF:-1  group-title="SD ch8ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch84/index.m3u8
-#EXTINF:-1  group-title="SD ch8ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch85/index.m3u8
-#EXTINF:-1  group-title="SD ch8ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch86/index.m3u8
-#EXTINF:-1  group-title="SD ch8ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch87/index.m3u8
-#EXTINF:-1  group-title="SD ch8ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch88/index.m3u8
-#EXTINF:-1  group-title="SD ch8ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch89/index.m3u8
-#EXTINF:-1  group-title="SD ch9ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch90/index.m3u8
-#EXTINF:-1  group-title="SD ch9ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch91/index.m3u8
-#EXTINF:-1  group-title="SD ch9ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch92/index.m3u8
-#EXTINF:-1  group-title="SD ch9ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch93/index.m3u8
-#EXTINF:-1  group-title="SD ch9ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch94/index.m3u8
-#EXTINF:-1  group-title="SD ch9ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch95/index.m3u8
-#EXTINF:-1  group-title="SD ch9ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch96/index.m3u8
-#EXTINF:-1  group-title="SD ch9ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch97/index.m3u8
-#EXTINF:-1  group-title="SD ch9ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch98/index.m3u8
-#EXTINF:-1  group-title="SD ch9ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch99/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch100/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch101/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch102/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch103/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch104/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch105/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch106/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch107/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch108/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch109/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch110/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch111/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch112/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch113/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch114/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch115/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch116/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch117/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch118/index.m3u8
-#EXTINF:-1  group-title="SD ch1ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch119/index.m3u8
-#EXTINF:-1  group-title="SD ch12ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch120/index.m3u8
-#EXTINF:-1  group-title="SD ch12ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch121/index.m3u8
-#EXTINF:-1  group-title="SD ch12ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch122/index.m3u8
-#EXTINF:-1  group-title="SD ch12ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch123/index.m3u8
-#EXTINF:-1  group-title="SD ch12ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch124/index.m3u8
-#EXTINF:-1  group-title="SD ch12ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch125/index.m3u8
-#EXTINF:-1  group-title="SD ch12ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch126/index.m3u8
-#EXTINF:-1  group-title="SD ch12ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch127/index.m3u8
-#EXTINF:-1  group-title="SD ch12ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch128/index.m3u8
-#EXTINF:-1  group-title="SD ch12ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch129/index.m3u8
-#EXTINF:-1  group-title="SD ch12ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch130/index.m3u8
-#EXTINF:-1  group-title="SD ch13ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch131/index.m3u8
-#EXTINF:-1  group-title="SD ch13ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch132/index.m3u8
-#EXTINF:-1  group-title="SD ch13ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch133/index.m3u8
-#EXTINF:-1  group-title="SD ch13ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch134/index.m3u8
-#EXTINF:-1  group-title="SD ch13ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch135/index.m3u8
-#EXTINF:-1  group-title="SD ch13ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch136/index.m3u8
-#EXTINF:-1  group-title="SD ch13ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch137/index.m3u8
-#EXTINF:-1  group-title="SD ch13ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch138/index.m3u8
-#EXTINF:-1  group-title="SD ch13ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch139/index.m3u8
-#EXTINF:-1  group-title="SD ch14ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch140/index.m3u8
-#EXTINF:-1  group-title="SD ch14ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch141/index.m3u8
-#EXTINF:-1  group-title="SD ch14ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch142/index.m3u8
-#EXTINF:-1  group-title="SD ch14ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch143/index.m3u8
-#EXTINF:-1  group-title="SD ch14ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch144/index.m3u8
-#EXTINF:-1  group-title="SD ch14ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch145/index.m3u8
-#EXTINF:-1  group-title="SD ch14ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch146/index.m3u8
-#EXTINF:-1  group-title="SD ch14ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch147/index.m3u8
-#EXTINF:-1  group-title="SD ch14ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch148/index.m3u8
-#EXTINF:-1  group-title="SD ch14ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch149/index.m3u8
-#EXTINF:-1  group-title="SD ch15ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch150/index.m3u8
-#EXTINF:-1  group-title="SD ch15ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch151/index.m3u8
-#EXTINF:-1  group-title="SD ch15ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch152/index.m3u8
-#EXTINF:-1  group-title="SD ch15ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch153/index.m3u8
-#EXTINF:-1  group-title="SD ch15ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch154/index.m3u8
-#EXTINF:-1  group-title="SD ch15ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch155/index.m3u8
-#EXTINF:-1  group-title="SD ch15ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch156/index.m3u8
-#EXTINF:-1  group-title="SD ch15ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch157/index.m3u8
-#EXTINF:-1  group-title="SD ch15ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch158/index.m3u8
-#EXTINF:-1  group-title="SD ch15ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch159/index.m3u8
-#EXTINF:-1  group-title="SD ch16ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch160/index.m3u8
-#EXTINF:-1  group-title="SD ch16ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch161/index.m3u8
-#EXTINF:-1  group-title="SD ch16ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch162/index.m3u8
-#EXTINF:-1  group-title="SD ch16ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch163/index.m3u8
-#EXTINF:-1  group-title="SD ch16ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch164/index.m3u8
-#EXTINF:-1  group-title="SD ch16ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch165/index.m3u8
-#EXTINF:-1  group-title="SD ch16ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch166/index.m3u8
-#EXTINF:-1  group-title="SD ch16ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch167/index.m3u8
-#EXTINF:-1  group-title="SD ch16ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch168/index.m3u8
-#EXTINF:-1  group-title="SD ch16ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch169/index.m3u8
-#EXTINF:-1  group-title="SD ch17ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch170/index.m3u8
-#EXTINF:-1  group-title="SD ch17ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch171/index.m3u8
-#EXTINF:-1  group-title="SD ch17ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch172/index.m3u8
-#EXTINF:-1  group-title="SD ch17ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch173/index.m3u8
-#EXTINF:-1  group-title="SD ch17ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch174/index.m3u8
-#EXTINF:-1  group-title="SD ch17ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch175/index.m3u8
-#EXTINF:-1  group-title="SD ch17ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch176/index.m3u8
-#EXTINF:-1  group-title="SD ch17ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch177/index.m3u8
-#EXTINF:-1  group-title="SD ch17ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch178/index.m3u8
-#EXTINF:-1  group-title="SD ch17ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch179/index.m3u8
-#EXTINF:-1  group-title="SD ch18ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch180/index.m3u8
-#EXTINF:-1  group-title="SD ch18ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch181/index.m3u8
-#EXTINF:-1  group-title="SD ch18ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch182/index.m3u8
-#EXTINF:-1  group-title="SD ch18ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch183/index.m3u8
-#EXTINF:-1  group-title="SD ch18ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch184/index.m3u8
-#EXTINF:-1  group-title="SD ch18ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch185/index.m3u8
-#EXTINF:-1  group-title="SD ch18ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch186/index.m3u8
-#EXTINF:-1  group-title="SD ch18ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch187/index.m3u8
-#EXTINF:-1  group-title="SD ch18ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch188/index.m3u8
-#EXTINF:-1  group-title="SD ch18ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch189/index.m3u8
-#EXTINF:-1  group-title="SD ch19ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch190/index.m3u8
-#EXTINF:-1  group-title="SD ch19ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch191/index.m3u8
-#EXTINF:-1  group-title="SD ch19ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch192/index.m3u8
-#EXTINF:-1  group-title="SD ch19ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch193/index.m3u8
-#EXTINF:-1  group-title="SD ch19ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch194/index.m3u8
-#EXTINF:-1  group-title="SD ch19ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch195/index.m3u8
-#EXTINF:-1  group-title="SD ch19ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch196/index.m3u8
-#EXTINF:-1  group-title="SD ch19ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch197/index.m3u8
-#EXTINF:-1  group-title="SD ch19ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch198/index.m3u8
-#EXTINF:-1  group-title="SD ch19ANNEL",
+#EXTINF:-1  group-title="SD SD CHANNEL",
 http://181.78.12.119:16123/play/ch199/index.m3u8
 
 #EXTINF:-1 group-title="-",2 Canal Congreso Colombia HD
