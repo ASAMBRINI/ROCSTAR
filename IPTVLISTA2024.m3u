@@ -1068,4 +1068,405 @@ https://access.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 #EXTINF:-1 tvg-id="ext" group-title="CINE Y SERIES",STAR CHANNEL
 https://access.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch00/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch01/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch02/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch03/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch04/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch05/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch06/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch07/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch08/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch09/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch10/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch11/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch12/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch13/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch14/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch15/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch16/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch17/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch18/index.m3u8
+#EXTINF:-1  group-title="SD CHANNEL",
+http://181.78.12.119:16123/play/ch19/index.m3u8
+#EXTINF:-1  group-title="SD ch2ANNEL",
+http://181.78.12.119:16123/play/ch20/index.m3u8
+#EXTINF:-1  group-title="SD ch2ANNEL",
+http://181.78.12.119:16123/play/ch21/index.m3u8
+#EXTINF:-1  group-title="SD ch2ANNEL",
+http://181.78.12.119:16123/play/ch22/index.m3u8
+#EXTINF:-1  group-title="SD ch2ANNEL",
+http://181.78.12.119:16123/play/ch23/index.m3u8
+#EXTINF:-1  group-title="SD ch2ANNEL",
+http://181.78.12.119:16123/play/ch24/index.m3u8
+#EXTINF:-1  group-title="SD ch2ANNEL",
+http://181.78.12.119:16123/play/ch25/index.m3u8
+#EXTINF:-1  group-title="SD ch2ANNEL",
+http://181.78.12.119:16123/play/ch26/index.m3u8
+#EXTINF:-1  group-title="SD ch2ANNEL",
+http://181.78.12.119:16123/play/ch27/index.m3u8
+#EXTINF:-1  group-title="SD ch2ANNEL",
+http://181.78.12.119:16123/play/ch28/index.m3u8
+#EXTINF:-1  group-title="SD ch2ANNEL",
+http://181.78.12.119:16123/play/ch29/index.m3u8
+#EXTINF:-1  group-title="SD ch2ANNEL",
+http://181.78.12.119:16123/play/ch30/index.m3u8
+#EXTINF:-1  group-title="SD ch3ANNEL",
+http://181.78.12.119:16123/play/ch31/index.m3u8
+#EXTINF:-1  group-title="SD ch3ANNEL",
+http://181.78.12.119:16123/play/ch32/index.m3u8
+#EXTINF:-1  group-title="SD ch3ANNEL",
+http://181.78.12.119:16123/play/ch33/index.m3u8
+#EXTINF:-1  group-title="SD ch3ANNEL",
+http://181.78.12.119:16123/play/ch34/index.m3u8
+#EXTINF:-1  group-title="SD ch3ANNEL",
+http://181.78.12.119:16123/play/ch35/index.m3u8
+#EXTINF:-1  group-title="SD ch3ANNEL",
+http://181.78.12.119:16123/play/ch36/index.m3u8
+#EXTINF:-1  group-title="SD ch3ANNEL",
+http://181.78.12.119:16123/play/ch37/index.m3u8
+#EXTINF:-1  group-title="SD ch3ANNEL",
+http://181.78.12.119:16123/play/ch38/index.m3u8
+#EXTINF:-1  group-title="SD ch3ANNEL",
+http://181.78.12.119:16123/play/ch39/index.m3u8
+#EXTINF:-1  group-title="SD ch4ANNEL",
+http://181.78.12.119:16123/play/ch40/index.m3u8
+#EXTINF:-1  group-title="SD ch4ANNEL",
+http://181.78.12.119:16123/play/ch41/index.m3u8
+#EXTINF:-1  group-title="SD ch4ANNEL",
+http://181.78.12.119:16123/play/ch42/index.m3u8
+#EXTINF:-1  group-title="SD ch4ANNEL",
+http://181.78.12.119:16123/play/ch43/index.m3u8
+#EXTINF:-1  group-title="SD ch4ANNEL",
+http://181.78.12.119:16123/play/ch44/index.m3u8
+#EXTINF:-1  group-title="SD ch4ANNEL",
+http://181.78.12.119:16123/play/ch45/index.m3u8
+#EXTINF:-1  group-title="SD ch4ANNEL",
+http://181.78.12.119:16123/play/ch46/index.m3u8
+#EXTINF:-1  group-title="SD ch4ANNEL",
+http://181.78.12.119:16123/play/ch47/index.m3u8
+#EXTINF:-1  group-title="SD ch4ANNEL",
+http://181.78.12.119:16123/play/ch48/index.m3u8
+#EXTINF:-1  group-title="SD ch4ANNEL",
+http://181.78.12.119:16123/play/ch49/index.m3u8
+#EXTINF:-1  group-title="SD ch5ANNEL",
+http://181.78.12.119:16123/play/ch50/index.m3u8
+#EXTINF:-1  group-title="SD ch5ANNEL",
+http://181.78.12.119:16123/play/ch51/index.m3u8
+#EXTINF:-1  group-title="SD ch5ANNEL",
+http://181.78.12.119:16123/play/ch52/index.m3u8
+#EXTINF:-1  group-title="SD ch5ANNEL",
+http://181.78.12.119:16123/play/ch53/index.m3u8
+#EXTINF:-1  group-title="SD ch5ANNEL",
+http://181.78.12.119:16123/play/ch54/index.m3u8
+#EXTINF:-1  group-title="SD ch5ANNEL",
+http://181.78.12.119:16123/play/ch55/index.m3u8
+#EXTINF:-1  group-title="SD ch5ANNEL",
+http://181.78.12.119:16123/play/ch56/index.m3u8
+#EXTINF:-1  group-title="SD ch5ANNEL",
+http://181.78.12.119:16123/play/ch57/index.m3u8
+#EXTINF:-1  group-title="SD ch5ANNEL",
+http://181.78.12.119:16123/play/ch58/index.m3u8
+#EXTINF:-1  group-title="SD ch5ANNEL",
+http://181.78.12.119:16123/play/ch59/index.m3u8
+#EXTINF:-1  group-title="SD ch6ANNEL",
+http://181.78.12.119:16123/play/ch60/index.m3u8
+#EXTINF:-1  group-title="SD ch6ANNEL",
+http://181.78.12.119:16123/play/ch61/index.m3u8
+#EXTINF:-1  group-title="SD ch6ANNEL",
+http://181.78.12.119:16123/play/ch62/index.m3u8
+#EXTINF:-1  group-title="SD ch6ANNEL",
+http://181.78.12.119:16123/play/ch63/index.m3u8
+#EXTINF:-1  group-title="SD ch6ANNEL",
+http://181.78.12.119:16123/play/ch64/index.m3u8
+#EXTINF:-1  group-title="SD ch6ANNEL",
+http://181.78.12.119:16123/play/ch65/index.m3u8
+#EXTINF:-1  group-title="SD ch6ANNEL",
+http://181.78.12.119:16123/play/ch66/index.m3u8
+#EXTINF:-1  group-title="SD ch6ANNEL",
+http://181.78.12.119:16123/play/ch67/index.m3u8
+#EXTINF:-1  group-title="SD ch6ANNEL",
+http://181.78.12.119:16123/play/ch68/index.m3u8
+#EXTINF:-1  group-title="SD ch6ANNEL",
+http://181.78.12.119:16123/play/ch69/index.m3u8
+#EXTINF:-1  group-title="SD ch7ANNEL",
+http://181.78.12.119:16123/play/ch70/index.m3u8
+#EXTINF:-1  group-title="SD ch7ANNEL",
+http://181.78.12.119:16123/play/ch71/index.m3u8
+#EXTINF:-1  group-title="SD ch7ANNEL",
+http://181.78.12.119:16123/play/ch72/index.m3u8
+#EXTINF:-1  group-title="SD ch7ANNEL",
+http://181.78.12.119:16123/play/ch73/index.m3u8
+#EXTINF:-1  group-title="SD ch7ANNEL",
+http://181.78.12.119:16123/play/ch74/index.m3u8
+#EXTINF:-1  group-title="SD ch7ANNEL",
+http://181.78.12.119:16123/play/ch75/index.m3u8
+#EXTINF:-1  group-title="SD ch7ANNEL",
+http://181.78.12.119:16123/play/ch76/index.m3u8
+#EXTINF:-1  group-title="SD ch7ANNEL",
+http://181.78.12.119:16123/play/ch77/index.m3u8
+#EXTINF:-1  group-title="SD ch7ANNEL",
+http://181.78.12.119:16123/play/ch78/index.m3u8
+#EXTINF:-1  group-title="SD ch7ANNEL",
+http://181.78.12.119:16123/play/ch79/index.m3u8
+#EXTINF:-1  group-title="SD ch8ANNEL",
+http://181.78.12.119:16123/play/ch80/index.m3u8
+#EXTINF:-1  group-title="SD ch8ANNEL",
+http://181.78.12.119:16123/play/ch81/index.m3u8
+#EXTINF:-1  group-title="SD ch8ANNEL",
+http://181.78.12.119:16123/play/ch82/index.m3u8
+#EXTINF:-1  group-title="SD ch8ANNEL",
+http://181.78.12.119:16123/play/ch83/index.m3u8
+#EXTINF:-1  group-title="SD ch8ANNEL",
+http://181.78.12.119:16123/play/ch84/index.m3u8
+#EXTINF:-1  group-title="SD ch8ANNEL",
+http://181.78.12.119:16123/play/ch85/index.m3u8
+#EXTINF:-1  group-title="SD ch8ANNEL",
+http://181.78.12.119:16123/play/ch86/index.m3u8
+#EXTINF:-1  group-title="SD ch8ANNEL",
+http://181.78.12.119:16123/play/ch87/index.m3u8
+#EXTINF:-1  group-title="SD ch8ANNEL",
+http://181.78.12.119:16123/play/ch88/index.m3u8
+#EXTINF:-1  group-title="SD ch8ANNEL",
+http://181.78.12.119:16123/play/ch89/index.m3u8
+#EXTINF:-1  group-title="SD ch9ANNEL",
+http://181.78.12.119:16123/play/ch90/index.m3u8
+#EXTINF:-1  group-title="SD ch9ANNEL",
+http://181.78.12.119:16123/play/ch91/index.m3u8
+#EXTINF:-1  group-title="SD ch9ANNEL",
+http://181.78.12.119:16123/play/ch92/index.m3u8
+#EXTINF:-1  group-title="SD ch9ANNEL",
+http://181.78.12.119:16123/play/ch93/index.m3u8
+#EXTINF:-1  group-title="SD ch9ANNEL",
+http://181.78.12.119:16123/play/ch94/index.m3u8
+#EXTINF:-1  group-title="SD ch9ANNEL",
+http://181.78.12.119:16123/play/ch95/index.m3u8
+#EXTINF:-1  group-title="SD ch9ANNEL",
+http://181.78.12.119:16123/play/ch96/index.m3u8
+#EXTINF:-1  group-title="SD ch9ANNEL",
+http://181.78.12.119:16123/play/ch97/index.m3u8
+#EXTINF:-1  group-title="SD ch9ANNEL",
+http://181.78.12.119:16123/play/ch98/index.m3u8
+#EXTINF:-1  group-title="SD ch9ANNEL",
+http://181.78.12.119:16123/play/ch99/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch100/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch101/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch102/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch103/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch104/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch105/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch106/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch107/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch108/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch109/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch110/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch111/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch112/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch113/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch114/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch115/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch116/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch117/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch118/index.m3u8
+#EXTINF:-1  group-title="SD ch1ANNEL",
+http://181.78.12.119:16123/play/ch119/index.m3u8
+#EXTINF:-1  group-title="SD ch12ANNEL",
+http://181.78.12.119:16123/play/ch120/index.m3u8
+#EXTINF:-1  group-title="SD ch12ANNEL",
+http://181.78.12.119:16123/play/ch121/index.m3u8
+#EXTINF:-1  group-title="SD ch12ANNEL",
+http://181.78.12.119:16123/play/ch122/index.m3u8
+#EXTINF:-1  group-title="SD ch12ANNEL",
+http://181.78.12.119:16123/play/ch123/index.m3u8
+#EXTINF:-1  group-title="SD ch12ANNEL",
+http://181.78.12.119:16123/play/ch124/index.m3u8
+#EXTINF:-1  group-title="SD ch12ANNEL",
+http://181.78.12.119:16123/play/ch125/index.m3u8
+#EXTINF:-1  group-title="SD ch12ANNEL",
+http://181.78.12.119:16123/play/ch126/index.m3u8
+#EXTINF:-1  group-title="SD ch12ANNEL",
+http://181.78.12.119:16123/play/ch127/index.m3u8
+#EXTINF:-1  group-title="SD ch12ANNEL",
+http://181.78.12.119:16123/play/ch128/index.m3u8
+#EXTINF:-1  group-title="SD ch12ANNEL",
+http://181.78.12.119:16123/play/ch129/index.m3u8
+#EXTINF:-1  group-title="SD ch12ANNEL",
+http://181.78.12.119:16123/play/ch130/index.m3u8
+#EXTINF:-1  group-title="SD ch13ANNEL",
+http://181.78.12.119:16123/play/ch131/index.m3u8
+#EXTINF:-1  group-title="SD ch13ANNEL",
+http://181.78.12.119:16123/play/ch132/index.m3u8
+#EXTINF:-1  group-title="SD ch13ANNEL",
+http://181.78.12.119:16123/play/ch133/index.m3u8
+#EXTINF:-1  group-title="SD ch13ANNEL",
+http://181.78.12.119:16123/play/ch134/index.m3u8
+#EXTINF:-1  group-title="SD ch13ANNEL",
+http://181.78.12.119:16123/play/ch135/index.m3u8
+#EXTINF:-1  group-title="SD ch13ANNEL",
+http://181.78.12.119:16123/play/ch136/index.m3u8
+#EXTINF:-1  group-title="SD ch13ANNEL",
+http://181.78.12.119:16123/play/ch137/index.m3u8
+#EXTINF:-1  group-title="SD ch13ANNEL",
+http://181.78.12.119:16123/play/ch138/index.m3u8
+#EXTINF:-1  group-title="SD ch13ANNEL",
+http://181.78.12.119:16123/play/ch139/index.m3u8
+#EXTINF:-1  group-title="SD ch14ANNEL",
+http://181.78.12.119:16123/play/ch140/index.m3u8
+#EXTINF:-1  group-title="SD ch14ANNEL",
+http://181.78.12.119:16123/play/ch141/index.m3u8
+#EXTINF:-1  group-title="SD ch14ANNEL",
+http://181.78.12.119:16123/play/ch142/index.m3u8
+#EXTINF:-1  group-title="SD ch14ANNEL",
+http://181.78.12.119:16123/play/ch143/index.m3u8
+#EXTINF:-1  group-title="SD ch14ANNEL",
+http://181.78.12.119:16123/play/ch144/index.m3u8
+#EXTINF:-1  group-title="SD ch14ANNEL",
+http://181.78.12.119:16123/play/ch145/index.m3u8
+#EXTINF:-1  group-title="SD ch14ANNEL",
+http://181.78.12.119:16123/play/ch146/index.m3u8
+#EXTINF:-1  group-title="SD ch14ANNEL",
+http://181.78.12.119:16123/play/ch147/index.m3u8
+#EXTINF:-1  group-title="SD ch14ANNEL",
+http://181.78.12.119:16123/play/ch148/index.m3u8
+#EXTINF:-1  group-title="SD ch14ANNEL",
+http://181.78.12.119:16123/play/ch149/index.m3u8
+#EXTINF:-1  group-title="SD ch15ANNEL",
+http://181.78.12.119:16123/play/ch150/index.m3u8
+#EXTINF:-1  group-title="SD ch15ANNEL",
+http://181.78.12.119:16123/play/ch151/index.m3u8
+#EXTINF:-1  group-title="SD ch15ANNEL",
+http://181.78.12.119:16123/play/ch152/index.m3u8
+#EXTINF:-1  group-title="SD ch15ANNEL",
+http://181.78.12.119:16123/play/ch153/index.m3u8
+#EXTINF:-1  group-title="SD ch15ANNEL",
+http://181.78.12.119:16123/play/ch154/index.m3u8
+#EXTINF:-1  group-title="SD ch15ANNEL",
+http://181.78.12.119:16123/play/ch155/index.m3u8
+#EXTINF:-1  group-title="SD ch15ANNEL",
+http://181.78.12.119:16123/play/ch156/index.m3u8
+#EXTINF:-1  group-title="SD ch15ANNEL",
+http://181.78.12.119:16123/play/ch157/index.m3u8
+#EXTINF:-1  group-title="SD ch15ANNEL",
+http://181.78.12.119:16123/play/ch158/index.m3u8
+#EXTINF:-1  group-title="SD ch15ANNEL",
+http://181.78.12.119:16123/play/ch159/index.m3u8
+#EXTINF:-1  group-title="SD ch16ANNEL",
+http://181.78.12.119:16123/play/ch160/index.m3u8
+#EXTINF:-1  group-title="SD ch16ANNEL",
+http://181.78.12.119:16123/play/ch161/index.m3u8
+#EXTINF:-1  group-title="SD ch16ANNEL",
+http://181.78.12.119:16123/play/ch162/index.m3u8
+#EXTINF:-1  group-title="SD ch16ANNEL",
+http://181.78.12.119:16123/play/ch163/index.m3u8
+#EXTINF:-1  group-title="SD ch16ANNEL",
+http://181.78.12.119:16123/play/ch164/index.m3u8
+#EXTINF:-1  group-title="SD ch16ANNEL",
+http://181.78.12.119:16123/play/ch165/index.m3u8
+#EXTINF:-1  group-title="SD ch16ANNEL",
+http://181.78.12.119:16123/play/ch166/index.m3u8
+#EXTINF:-1  group-title="SD ch16ANNEL",
+http://181.78.12.119:16123/play/ch167/index.m3u8
+#EXTINF:-1  group-title="SD ch16ANNEL",
+http://181.78.12.119:16123/play/ch168/index.m3u8
+#EXTINF:-1  group-title="SD ch16ANNEL",
+http://181.78.12.119:16123/play/ch169/index.m3u8
+#EXTINF:-1  group-title="SD ch17ANNEL",
+http://181.78.12.119:16123/play/ch170/index.m3u8
+#EXTINF:-1  group-title="SD ch17ANNEL",
+http://181.78.12.119:16123/play/ch171/index.m3u8
+#EXTINF:-1  group-title="SD ch17ANNEL",
+http://181.78.12.119:16123/play/ch172/index.m3u8
+#EXTINF:-1  group-title="SD ch17ANNEL",
+http://181.78.12.119:16123/play/ch173/index.m3u8
+#EXTINF:-1  group-title="SD ch17ANNEL",
+http://181.78.12.119:16123/play/ch174/index.m3u8
+#EXTINF:-1  group-title="SD ch17ANNEL",
+http://181.78.12.119:16123/play/ch175/index.m3u8
+#EXTINF:-1  group-title="SD ch17ANNEL",
+http://181.78.12.119:16123/play/ch176/index.m3u8
+#EXTINF:-1  group-title="SD ch17ANNEL",
+http://181.78.12.119:16123/play/ch177/index.m3u8
+#EXTINF:-1  group-title="SD ch17ANNEL",
+http://181.78.12.119:16123/play/ch178/index.m3u8
+#EXTINF:-1  group-title="SD ch17ANNEL",
+http://181.78.12.119:16123/play/ch179/index.m3u8
+#EXTINF:-1  group-title="SD ch18ANNEL",
+http://181.78.12.119:16123/play/ch180/index.m3u8
+#EXTINF:-1  group-title="SD ch18ANNEL",
+http://181.78.12.119:16123/play/ch181/index.m3u8
+#EXTINF:-1  group-title="SD ch18ANNEL",
+http://181.78.12.119:16123/play/ch182/index.m3u8
+#EXTINF:-1  group-title="SD ch18ANNEL",
+http://181.78.12.119:16123/play/ch183/index.m3u8
+#EXTINF:-1  group-title="SD ch18ANNEL",
+http://181.78.12.119:16123/play/ch184/index.m3u8
+#EXTINF:-1  group-title="SD ch18ANNEL",
+http://181.78.12.119:16123/play/ch185/index.m3u8
+#EXTINF:-1  group-title="SD ch18ANNEL",
+http://181.78.12.119:16123/play/ch186/index.m3u8
+#EXTINF:-1  group-title="SD ch18ANNEL",
+http://181.78.12.119:16123/play/ch187/index.m3u8
+#EXTINF:-1  group-title="SD ch18ANNEL",
+http://181.78.12.119:16123/play/ch188/index.m3u8
+#EXTINF:-1  group-title="SD ch18ANNEL",
+http://181.78.12.119:16123/play/ch189/index.m3u8
+#EXTINF:-1  group-title="SD ch19ANNEL",
+http://181.78.12.119:16123/play/ch190/index.m3u8
+#EXTINF:-1  group-title="SD ch19ANNEL",
+http://181.78.12.119:16123/play/ch191/index.m3u8
+#EXTINF:-1  group-title="SD ch19ANNEL",
+http://181.78.12.119:16123/play/ch192/index.m3u8
+#EXTINF:-1  group-title="SD ch19ANNEL",
+http://181.78.12.119:16123/play/ch193/index.m3u8
+#EXTINF:-1  group-title="SD ch19ANNEL",
+http://181.78.12.119:16123/play/ch194/index.m3u8
+#EXTINF:-1  group-title="SD ch19ANNEL",
+http://181.78.12.119:16123/play/ch195/index.m3u8
+#EXTINF:-1  group-title="SD ch19ANNEL",
+http://181.78.12.119:16123/play/ch196/index.m3u8
+#EXTINF:-1  group-title="SD ch19ANNEL",
+http://181.78.12.119:16123/play/ch197/index.m3u8
+#EXTINF:-1  group-title="SD ch19ANNEL",
+http://181.78.12.119:16123/play/ch198/index.m3u8
+#EXTINF:-1  group-title="SD ch19ANNEL",
+http://181.78.12.119:16123/play/ch199/index.m3u8
+
 
